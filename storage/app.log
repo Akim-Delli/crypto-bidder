@@ -1,0 +1,63 @@
+INFO:root:Bitcoin -> Price Avg 43333.554113126505 | Current Price :37884 | Bid Submitted : True
+INFO:root:Ethereum -> Price Avg 3177.839380373711 | Current Price :2287.72 | Bid Submitted : True
+INFO:root:Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False
+2021-05-22 18:13:42,698 Bitcoin -> Price Avg 43333.554113126505 | Current Price :37870 | Bid Submitted : True
+2021-05-22 18:13:42,891 Ethereum -> Price Avg 3177.839380373711 | Current Price :2286.05 | Bid Submitted : True
+2021-05-22 18:13:43,045 Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False
+2021-05-22 18:18:08,271 [INFO] Bitcoin -> Price Avg 43304.659976362855 | Current Price :37858 | Bid Submitted : True
+2021-05-22 18:18:08,426 [INFO] Ethereum -> Price Avg 3177.839380373711 | Current Price :2293.28 | Bid Submitted : True
+2021-05-22 18:18:08,560 [INFO] Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False
+2021-05-22 18:18:41,138 [INFO] Bitcoin -> Price Avg 43304.659976362855 | Current Price :37858 | Bid Submitted : True
+2021-05-22 18:18:41,278 [INFO] Ethereum -> Price Avg 3177.839380373711 | Current Price :2293.28 | Bid Submitted : True
+2021-05-22 18:18:41,394 [INFO] Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False
+bold_red = '[31;1m' 2021-05-22 18:25:25,241 [INFO] Bitcoin -> Price Avg 43304.659976362855 | Current Price :37832 | Bid Submitted : True
+bold_red = '[31;1m' 2021-05-22 18:25:25,376 [INFO] Ethereum -> Price Avg 3177.839380373711 | Current Price :2293.36 | Bid Submitted : True
+bold_red = '[31;1m' 2021-05-22 18:25:25,515 [INFO] Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False
+'[31;1m' 2021-05-22 18:25:52,600 [INFO] Bitcoin -> Price Avg 43304.659976362855 | Current Price :37832 | Bid Submitted : True
+'[31;1m' 2021-05-22 18:25:52,718 [INFO] Ethereum -> Price Avg 3177.839380373711 | Current Price :2293.36 | Bid Submitted : True
+'[31;1m' 2021-05-22 18:25:52,837 [INFO] Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False
+[31;1m 2021-05-22 18:26:25,453 [INFO] Bitcoin -> Price Avg 43304.659976362855 | Current Price :37808 | Bid Submitted : True
+[31;1m 2021-05-22 18:26:25,613 [INFO] Ethereum -> Price Avg 3177.839380373711 | Current Price :2293.36 | Bid Submitted : True
+[31;1m 2021-05-22 18:26:25,780 [INFO] Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False
+[31;1m 2021-05-22 18:29:10,321 [INFO] Bitcoin -> Price Avg 43304.659976362855 | Current Price :37867 | Bid Submitted : True
+[31;1m 2021-05-22 18:29:10,507 [INFO] Ethereum -> Price Avg 3177.839380373711 | Current Price :2290.86 | Bid Submitted : True
+[31;1m 2021-05-22 18:29:10,681 [INFO] Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False
+2021-05-22 18:29:28,245 [INFO] [31;1m Bitcoin -> Price Avg 43304.659976362855 | Current Price :37867 | Bid Submitted : True [0m
+2021-05-22 18:29:28,398 [INFO] [31;1m Ethereum -> Price Avg 3177.839380373711 | Current Price :2290.86 | Bid Submitted : True [0m
+2021-05-22 18:29:28,521 [INFO] [31;1m Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False [0m
+2021-05-22 18:29:33,990 [INFO] [31;1m Bitcoin -> Price Avg 43304.659976362855 | Current Price :37867 | Bid Submitted : True [0m
+2021-05-22 18:29:34,103 [INFO] [31;1m Ethereum -> Price Avg 3177.839380373711 | Current Price :2290.86 | Bid Submitted : True [0m
+2021-05-22 18:29:34,226 [INFO] [31;1m Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False [0m
+2021-05-22 18:45:52,670 [INFO] [31;1m Bitcoin -> Price Avg (43304.66, 2) | Current Price :37621 | Bid Submitted : True [0m
+2021-05-22 18:45:52,831 [INFO] [31;1m Ethereum -> Price Avg (3177.71, 2) | Current Price :2286.38 | Bid Submitted : True [0m
+2021-05-22 18:45:53,072 [INFO] [31;1m Tether -> Price Avg (1.0, 2) | Current Price :0.999542 | Bid Submitted : True [0m
+2021-05-22 18:46:12,727 [INFO] [31;1m Bitcoin -> Price Avg 43304.66 | Current Price :37621 | Bid Submitted : True [0m
+2021-05-22 18:46:12,824 [INFO] [31;1m Ethereum -> Price Avg 3177.71 | Current Price :2286.38 | Bid Submitted : True [0m
+2021-05-22 18:46:12,931 [INFO] [31;1m Tether -> Price Avg 1.0 | Current Price :0.999542 | Bid Submitted : True [0m
+2021-05-22 18:48:58,298 [INFO] [31;1m       Bitcoin -> Price Avg 43257.27 | Current Price :37384 | Bid Submitted : True [0m
+2021-05-22 18:48:58,455 [INFO] [31;1m      Ethereum -> Price Avg 3177.71 | Current Price :2274.66 | Bid Submitted : True [0m
+2021-05-22 18:48:58,632 [INFO] [31;1m        Tether -> Price Avg 1.0 | Current Price :0.999542 | Bid Submitted : True [0m
+2021-05-22 18:49:19,343 [INFO] [31;1m Bitcoin       -> Price Avg 43257.27 | Current Price :37384 | Bid Submitted : True [0m
+2021-05-22 18:49:19,435 [INFO] [31;1m Ethereum      -> Price Avg 3177.71 | Current Price :2274.66 | Bid Submitted : True [0m
+2021-05-22 18:49:19,533 [INFO] [31;1m Tether        -> Price Avg 1.0 | Current Price :0.999542 | Bid Submitted : True [0m
+2021-05-22 18:51:13,098 [INFO] [31;1m Bitcoin       : Price Avg 43257.27   | Current Price :37553      | Bid Submitted : True [0m
+2021-05-22 18:51:13,271 [INFO] [31;1m Ethereum      : Price Avg 3177.71    | Current Price :2282.26    | Bid Submitted : True [0m
+2021-05-22 18:51:13,401 [INFO] [31;1m Tether        : Price Avg 1.0        | Current Price :0.999542   | Bid Submitted : True [0m
+2021-05-22 18:54:22,348 [INFO] [31;1m Bitcoin       : Price Avg 43257.27   | Current Price :37675      | Bid Submitted : True [0m
+2021-05-22 18:54:22,482 [INFO] [31;1m Ethereum      : Price Avg 3177.71    | Current Price :2290.44    | Bid Submitted : True [0m
+2021-05-22 18:54:22,637 [INFO] [31;1m Tether        : Price Avg 1.0        | Current Price :0.999542   | Bid Submitted : True [0m
+2021-05-22 19:00:33,472 [INFO] [31;1m Bitcoin       : Price Avg 43257.27   | Current Price :37762      | Bid Submitted : True [0m
+2021-05-22 19:00:33,620 [INFO] [31;1m Ethereum      : Price Avg 3177.71    | Current Price :2296.44    | Bid Submitted : True [0m
+2021-05-22 19:00:33,782 [INFO] [31;1m Tether        : Price Avg 1.0        | Current Price :0.999542   | Bid Submitted : True [0m
+2021-05-22 19:02:04,430 [INFO] [31;1m Bitcoin       : 10 days Price Avg 43257.27   | Current Price :37771      | Bid Submitted : True [0m
+2021-05-22 19:02:04,590 [INFO] [31;1m Ethereum      : 10 days Price Avg 3177.71    | Current Price :2296.81    | Bid Submitted : True [0m
+2021-05-22 19:02:04,754 [INFO] [31;1m Tether        : 10 days Price Avg 1.0        | Current Price :0.999542   | Bid Submitted : True [0m
+2021-05-22 19:09:42,049 [INFO] [31;1m Bitcoin       : 10 days Price Avg 43257.27   | Current Price :37740      | Bid Submitted : True [0m
+2021-05-22 19:09:42,180 [INFO] [31;1m Ethereum      : 10 days Price Avg 3177.71    | Current Price :2300.14    | Bid Submitted : True [0m
+2021-05-22 19:09:42,405 [INFO] [31;1m Tether        : 10 days Price Avg 1.0        | Current Price :1.0        | Bid Submitted : False [0m
+2021-05-22 19:15:06,605 [INFO] [31;1m Bitcoin       : 10 days Price Avg 43257.27   | Current Price :37899      | Bid Submitted : True [0m
+2021-05-22 19:15:06,846 [INFO] [31;1m Ethereum      : 10 days Price Avg 3177.71    | Current Price :2305.03    | Bid Submitted : True [0m
+2021-05-22 19:15:07,002 [INFO] [31;1m Tether        : 10 days Price Avg 1.0        | Current Price :1.0        | Bid Submitted : False [0m
+2021-05-22 19:21:43,768 [INFO] [31;1m Bitcoin       : 10 days Price Avg 43298.54   | Current Price :37797      | Bid Submitted : True [0m
+2021-05-22 19:21:43,919 [INFO] [31;1m Ethereum      : 10 days Price Avg 3179.3     | Current Price :2302.29    | Bid Submitted : True [0m
+2021-05-22 19:21:44,147 [INFO] [31;1m Tether        : 10 days Price Avg 1.0        | Current Price :1.0        | Bid Submitted : False [0m
