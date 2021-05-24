@@ -17,7 +17,7 @@ make sure to copy the .env.example file to .env
 
 or
 
-`make exec` once the container si still running
+`make exec` once the container is running
 
 should start the bot after a short delay (to make sure that the db container is fully ready)
 
