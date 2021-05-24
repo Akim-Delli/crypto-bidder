@@ -1,63 +1,1077 @@
-INFO:root:Bitcoin -> Price Avg 43333.554113126505 | Current Price :37884 | Bid Submitted : True
-INFO:root:Ethereum -> Price Avg 3177.839380373711 | Current Price :2287.72 | Bid Submitted : True
-INFO:root:Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False
-2021-05-22 18:13:42,698 Bitcoin -> Price Avg 43333.554113126505 | Current Price :37870 | Bid Submitted : True
-2021-05-22 18:13:42,891 Ethereum -> Price Avg 3177.839380373711 | Current Price :2286.05 | Bid Submitted : True
-2021-05-22 18:13:43,045 Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False
-2021-05-22 18:18:08,271 [INFO] Bitcoin -> Price Avg 43304.659976362855 | Current Price :37858 | Bid Submitted : True
-2021-05-22 18:18:08,426 [INFO] Ethereum -> Price Avg 3177.839380373711 | Current Price :2293.28 | Bid Submitted : True
-2021-05-22 18:18:08,560 [INFO] Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False
-2021-05-22 18:18:41,138 [INFO] Bitcoin -> Price Avg 43304.659976362855 | Current Price :37858 | Bid Submitted : True
-2021-05-22 18:18:41,278 [INFO] Ethereum -> Price Avg 3177.839380373711 | Current Price :2293.28 | Bid Submitted : True
-2021-05-22 18:18:41,394 [INFO] Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False
-bold_red = '[31;1m' 2021-05-22 18:25:25,241 [INFO] Bitcoin -> Price Avg 43304.659976362855 | Current Price :37832 | Bid Submitted : True
-bold_red = '[31;1m' 2021-05-22 18:25:25,376 [INFO] Ethereum -> Price Avg 3177.839380373711 | Current Price :2293.36 | Bid Submitted : True
-bold_red = '[31;1m' 2021-05-22 18:25:25,515 [INFO] Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False
-'[31;1m' 2021-05-22 18:25:52,600 [INFO] Bitcoin -> Price Avg 43304.659976362855 | Current Price :37832 | Bid Submitted : True
-'[31;1m' 2021-05-22 18:25:52,718 [INFO] Ethereum -> Price Avg 3177.839380373711 | Current Price :2293.36 | Bid Submitted : True
-'[31;1m' 2021-05-22 18:25:52,837 [INFO] Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False
-[31;1m 2021-05-22 18:26:25,453 [INFO] Bitcoin -> Price Avg 43304.659976362855 | Current Price :37808 | Bid Submitted : True
-[31;1m 2021-05-22 18:26:25,613 [INFO] Ethereum -> Price Avg 3177.839380373711 | Current Price :2293.36 | Bid Submitted : True
-[31;1m 2021-05-22 18:26:25,780 [INFO] Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False
-[31;1m 2021-05-22 18:29:10,321 [INFO] Bitcoin -> Price Avg 43304.659976362855 | Current Price :37867 | Bid Submitted : True
-[31;1m 2021-05-22 18:29:10,507 [INFO] Ethereum -> Price Avg 3177.839380373711 | Current Price :2290.86 | Bid Submitted : True
-[31;1m 2021-05-22 18:29:10,681 [INFO] Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False
-2021-05-22 18:29:28,245 [INFO] [31;1m Bitcoin -> Price Avg 43304.659976362855 | Current Price :37867 | Bid Submitted : True [0m
-2021-05-22 18:29:28,398 [INFO] [31;1m Ethereum -> Price Avg 3177.839380373711 | Current Price :2290.86 | Bid Submitted : True [0m
-2021-05-22 18:29:28,521 [INFO] [31;1m Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False [0m
-2021-05-22 18:29:33,990 [INFO] [31;1m Bitcoin -> Price Avg 43304.659976362855 | Current Price :37867 | Bid Submitted : True [0m
-2021-05-22 18:29:34,103 [INFO] [31;1m Ethereum -> Price Avg 3177.839380373711 | Current Price :2290.86 | Bid Submitted : True [0m
-2021-05-22 18:29:34,226 [INFO] [31;1m Tether -> Price Avg 0.9984563023564468 | Current Price :0.999542 | Bid Submitted : False [0m
-2021-05-22 18:45:52,670 [INFO] [31;1m Bitcoin -> Price Avg (43304.66, 2) | Current Price :37621 | Bid Submitted : True [0m
-2021-05-22 18:45:52,831 [INFO] [31;1m Ethereum -> Price Avg (3177.71, 2) | Current Price :2286.38 | Bid Submitted : True [0m
-2021-05-22 18:45:53,072 [INFO] [31;1m Tether -> Price Avg (1.0, 2) | Current Price :0.999542 | Bid Submitted : True [0m
-2021-05-22 18:46:12,727 [INFO] [31;1m Bitcoin -> Price Avg 43304.66 | Current Price :37621 | Bid Submitted : True [0m
-2021-05-22 18:46:12,824 [INFO] [31;1m Ethereum -> Price Avg 3177.71 | Current Price :2286.38 | Bid Submitted : True [0m
-2021-05-22 18:46:12,931 [INFO] [31;1m Tether -> Price Avg 1.0 | Current Price :0.999542 | Bid Submitted : True [0m
-2021-05-22 18:48:58,298 [INFO] [31;1m       Bitcoin -> Price Avg 43257.27 | Current Price :37384 | Bid Submitted : True [0m
-2021-05-22 18:48:58,455 [INFO] [31;1m      Ethereum -> Price Avg 3177.71 | Current Price :2274.66 | Bid Submitted : True [0m
-2021-05-22 18:48:58,632 [INFO] [31;1m        Tether -> Price Avg 1.0 | Current Price :0.999542 | Bid Submitted : True [0m
-2021-05-22 18:49:19,343 [INFO] [31;1m Bitcoin       -> Price Avg 43257.27 | Current Price :37384 | Bid Submitted : True [0m
-2021-05-22 18:49:19,435 [INFO] [31;1m Ethereum      -> Price Avg 3177.71 | Current Price :2274.66 | Bid Submitted : True [0m
-2021-05-22 18:49:19,533 [INFO] [31;1m Tether        -> Price Avg 1.0 | Current Price :0.999542 | Bid Submitted : True [0m
-2021-05-22 18:51:13,098 [INFO] [31;1m Bitcoin       : Price Avg 43257.27   | Current Price :37553      | Bid Submitted : True [0m
-2021-05-22 18:51:13,271 [INFO] [31;1m Ethereum      : Price Avg 3177.71    | Current Price :2282.26    | Bid Submitted : True [0m
-2021-05-22 18:51:13,401 [INFO] [31;1m Tether        : Price Avg 1.0        | Current Price :0.999542   | Bid Submitted : True [0m
-2021-05-22 18:54:22,348 [INFO] [31;1m Bitcoin       : Price Avg 43257.27   | Current Price :37675      | Bid Submitted : True [0m
-2021-05-22 18:54:22,482 [INFO] [31;1m Ethereum      : Price Avg 3177.71    | Current Price :2290.44    | Bid Submitted : True [0m
-2021-05-22 18:54:22,637 [INFO] [31;1m Tether        : Price Avg 1.0        | Current Price :0.999542   | Bid Submitted : True [0m
-2021-05-22 19:00:33,472 [INFO] [31;1m Bitcoin       : Price Avg 43257.27   | Current Price :37762      | Bid Submitted : True [0m
-2021-05-22 19:00:33,620 [INFO] [31;1m Ethereum      : Price Avg 3177.71    | Current Price :2296.44    | Bid Submitted : True [0m
-2021-05-22 19:00:33,782 [INFO] [31;1m Tether        : Price Avg 1.0        | Current Price :0.999542   | Bid Submitted : True [0m
-2021-05-22 19:02:04,430 [INFO] [31;1m Bitcoin       : 10 days Price Avg 43257.27   | Current Price :37771      | Bid Submitted : True [0m
-2021-05-22 19:02:04,590 [INFO] [31;1m Ethereum      : 10 days Price Avg 3177.71    | Current Price :2296.81    | Bid Submitted : True [0m
-2021-05-22 19:02:04,754 [INFO] [31;1m Tether        : 10 days Price Avg 1.0        | Current Price :0.999542   | Bid Submitted : True [0m
-2021-05-22 19:09:42,049 [INFO] [31;1m Bitcoin       : 10 days Price Avg 43257.27   | Current Price :37740      | Bid Submitted : True [0m
-2021-05-22 19:09:42,180 [INFO] [31;1m Ethereum      : 10 days Price Avg 3177.71    | Current Price :2300.14    | Bid Submitted : True [0m
-2021-05-22 19:09:42,405 [INFO] [31;1m Tether        : 10 days Price Avg 1.0        | Current Price :1.0        | Bid Submitted : False [0m
-2021-05-22 19:15:06,605 [INFO] [31;1m Bitcoin       : 10 days Price Avg 43257.27   | Current Price :37899      | Bid Submitted : True [0m
-2021-05-22 19:15:06,846 [INFO] [31;1m Ethereum      : 10 days Price Avg 3177.71    | Current Price :2305.03    | Bid Submitted : True [0m
-2021-05-22 19:15:07,002 [INFO] [31;1m Tether        : 10 days Price Avg 1.0        | Current Price :1.0        | Bid Submitted : False [0m
-2021-05-22 19:21:43,768 [INFO] [31;1m Bitcoin       : 10 days Price Avg 43298.54   | Current Price :37797      | Bid Submitted : True [0m
-2021-05-22 19:21:43,919 [INFO] [31;1m Ethereum      : 10 days Price Avg 3179.3     | Current Price :2302.29    | Bid Submitted : True [0m
-2021-05-22 19:21:44,147 [INFO] [31;1m Tether        : 10 days Price Avg 1.0        | Current Price :1.0        | Bid Submitted : False [0m
+2021-05-23 16:45:39,769: root: INFO: Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 16:45:39,769: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 16:45:39,769: root: INFO: 
+2021-05-23 16:45:39,950: root: INFO: Bitcoin              | btc    |          588839333739 |       31390.0 |     41417.93 |   True    |       147 |     5025340.0 |     4614330.0 |     -411014.0 |
+2021-05-23 16:45:40,259: root: INFO: Ethereum             | eth    |          205552024887 |       1758.56 |      2987.41 |   True    |       141 |      282244.0 |      247957.0 |      -34287.3 |
+2021-05-23 16:45:40,424: root: INFO: Tether               | usdt   |           59376645917 |      0.995979 |          1.0 |   True    |       127 |       126.066 |       126.489 |      0.423302 |
+2021-05-23 16:46:40,628: root: INFO: Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 16:46:40,628: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 16:46:40,628: root: INFO: 
+2021-05-23 16:46:40,932: root: INFO: Bitcoin              | btc    |          588839333739 |       31390.0 |     41417.93 |   True    |       148 |     5056730.0 |     4645720.0 |     -411014.0 |
+2021-05-23 16:46:41,111: root: INFO: Ethereum             | eth    |          205552024887 |       1758.56 |      2987.41 |   True    |       142 |      284003.0 |      249716.0 |      -34287.3 |
+2021-05-23 16:46:41,489: root: INFO: Tether               | usdt   |           59376645917 |      0.995979 |          1.0 |   True    |       128 |       127.062 |       127.485 |      0.423302 |
+2021-05-23 16:47:40,305: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 16:47:40,305: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 16:47:40,307: root: INFO: 
+2021-05-23 16:47:40,552: root: INFO: Bitcoin              | btc    |          588839333739 |       31376.0 |     41417.93 |   True    |       149 |     5088110.0 |     4675020.0 |     -413086.0 |
+2021-05-23 16:47:40,803: root: INFO: Ethereum             | eth    |          205552024887 |       1754.23 |      2987.41 |   True    |       143 |      285757.0 |      250855.0 |      -34902.2 |
+2021-05-23 16:47:43,144: root: INFO: Tether               | usdt   |           59376645917 |      0.995979 |          1.0 |   True    |       129 |       128.058 |       128.481 |      0.423309 |
+2021-05-23 16:48:43,320: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 16:48:43,320: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 16:48:43,320: root: INFO: 
+2021-05-23 16:48:43,476: root: INFO: Bitcoin              | btc    |          588839333739 |       31376.0 |     41417.93 |   True    |       150 |     5119490.0 |     4706400.0 |     -413086.0 |
+2021-05-23 16:48:43,748: root: INFO: Ethereum             | eth    |          205552024887 |       1754.23 |      2987.41 |   True    |       144 |      287511.0 |      252609.0 |      -34902.2 |
+2021-05-23 16:48:43,877: root: INFO: Tether               | usdt   |           59376645917 |      0.995979 |          1.0 |   True    |       130 |       129.054 |       129.477 |      0.423309 |
+2021-05-23 16:49:44,117: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 16:49:44,118: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 16:49:44,119: root: INFO: 
+2021-05-23 16:49:44,452: root: INFO: Bitcoin              | btc    |          588839333739 |       31651.0 |     41417.93 |   True    |       151 |     5151140.0 |     4779300.0 |     -371836.0 |
+2021-05-23 16:49:45,183: root: INFO: Ethereum             | eth    |          205552024887 |       1771.35 |      2987.41 |   True    |       145 |      289283.0 |      256846.0 |      -32436.9 |
+2021-05-23 16:49:45,442: root: INFO: Tether               | usdt   |           59376645917 |      0.995979 |          1.0 |   True    |       131 |        130.05 |       130.473 |      0.423325 |
+2021-05-23 16:50:45,681: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 16:50:45,682: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 16:50:45,682: root: INFO: 
+2021-05-23 16:50:46,236: root: INFO: Bitcoin              | btc    |          592307393555 |       31651.0 |     41417.93 |   True    |       152 |     5182790.0 |     4810950.0 |     -371836.0 |
+2021-05-23 16:50:46,423: root: INFO: Ethereum             | eth    |          205465875107 |       1771.35 |      2987.41 |   True    |       146 |      291054.0 |      258617.0 |      -32436.9 |
+2021-05-23 16:50:46,610: root: INFO: Tether               | usdt   |           59376645917 |      0.995979 |          1.0 |   True    |       132 |       131.046 |       131.469 |      0.423325 |
+2021-05-23 16:51:46,835: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 16:51:46,835: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 16:51:46,835: root: INFO: 
+2021-05-23 16:51:47,029: root: INFO: Bitcoin              | btc    |          592307393555 |       31651.0 |     41417.93 |   True    |       153 |     5214440.0 |     4842600.0 |     -371836.0 |
+2021-05-23 16:51:47,401: root: INFO: Ethereum             | eth    |          205465875107 |       1771.35 |      2981.81 |   True    |       147 |      292825.0 |      260388.0 |      -32436.9 |
+2021-05-23 16:51:47,587: root: INFO: Tether               | usdt   |           59376645917 |      0.995979 |          1.0 |   True    |       133 |       132.042 |       132.465 |       0.42334 |
+2021-05-23 16:52:48,099: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 16:52:48,099: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 16:52:48,100: root: INFO: 
+2021-05-23 16:52:48,510: root: INFO: Bitcoin              | btc    |          592307393555 |       31862.0 |     41417.93 |   True    |       154 |     5246300.0 |     4906750.0 |     -339553.0 |
+2021-05-23 16:52:48,727: root: INFO: Ethereum             | eth    |          205465875107 |       1789.15 |      2981.81 |   True    |       148 |      294614.0 |      264794.0 |      -29820.2 |
+2021-05-23 16:52:49,015: root: INFO: Tether               | usdt   |           59376645917 |      0.995979 |          1.0 |   True    |       134 |       133.038 |       133.461 |       0.42334 |
+2021-05-23 16:53:49,250: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 16:53:49,251: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 16:53:49,251: root: INFO: 
+2021-05-23 16:53:49,413: root: INFO: Bitcoin              | btc    |          592307393555 |       31862.0 |     41417.93 |   True    |       155 |     5278160.0 |     4938610.0 |     -339553.0 |
+2021-05-23 16:53:49,583: root: INFO: Ethereum             | eth    |          205465875107 |       1789.15 |      2981.81 |   True    |       149 |      296404.0 |      266583.0 |      -29820.3 |
+2021-05-23 16:53:49,729: root: INFO: Tether               | usdt   |           59376645917 |      0.995979 |          1.0 |   True    |       135 |       134.034 |       134.457 |      0.423355 |
+2021-05-23 16:54:49,940: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 16:54:49,940: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 16:54:49,941: root: INFO: 
+2021-05-23 16:54:50,158: root: INFO: Bitcoin              | btc    |          592307393555 |       31862.0 |     41417.93 |   True    |       156 |     5310020.0 |     4970470.0 |     -339553.0 |
+2021-05-23 16:54:50,302: root: INFO: Ethereum             | eth    |          205465875107 |       1789.15 |      2981.81 |   True    |       150 |      298193.0 |      268372.0 |      -29820.3 |
+2021-05-23 16:54:50,467: root: INFO: Tether               | usdt   |           59376645917 |      0.995979 |          1.0 |   True    |       136 |        135.03 |       135.453 |      0.423355 |
+2021-05-23 16:55:50,661: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 16:55:50,662: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 16:55:50,662: root: INFO: 
+2021-05-23 16:55:50,855: root: INFO: Bitcoin              | btc    |          592307393555 |       32011.0 |     41417.93 |   True    |       157 |     5342040.0 |     5025730.0 |     -316309.0 |
+2021-05-23 16:55:51,288: root: INFO: Ethereum             | eth    |          205465875107 |       1806.69 |      2981.81 |   True    |       151 |      299999.0 |      272810.0 |      -27189.3 |
+2021-05-23 16:55:51,458: root: INFO: Tether               | usdt   |           59376645917 |      0.995979 |          1.0 |   True    |       137 |       136.026 |       136.449 |       0.42337 |
+2021-05-23 16:56:51,726: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 16:56:51,726: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 16:56:51,726: root: INFO: 
+2021-05-23 16:56:52,251: root: INFO: Bitcoin              | btc    |          592307393555 |       32011.0 |     41417.93 |   True    |       158 |     5374050.0 |     5057740.0 |     -316309.0 |
+2021-05-23 16:56:52,459: root: INFO: Ethereum             | eth    |          205465875107 |       1806.69 |      2981.81 |   True    |       152 |      301806.0 |      274617.0 |      -27189.3 |
+2021-05-23 16:56:52,651: root: INFO: Tether               | usdt   |           59376645917 |      0.995979 |          1.0 |   True    |       138 |       137.022 |       137.445 |       0.42337 |
+2021-05-23 16:57:52,497: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 16:57:52,498: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 16:57:52,498: root: INFO: 
+2021-05-23 16:57:52,864: root: INFO: Bitcoin              | btc    |          592307393555 |       32378.0 |     41417.93 |   True    |       159 |     5406420.0 |     5148100.0 |     -258323.0 |
+2021-05-23 16:57:53,283: root: INFO: Ethereum             | eth    |          205465875107 |       1842.48 |      2981.81 |   True    |       153 |      303649.0 |      281899.0 |      -21749.2 |
+2021-05-23 16:57:53,695: root: INFO: Tether               | usdt   |           59376645917 |      0.995979 |          1.0 |   True    |       139 |       138.018 |       138.441 |      0.423386 |
+2021-05-23 16:58:53,908: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 16:58:53,909: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 16:58:53,909: root: INFO: 
+2021-05-23 16:58:54,223: root: INFO: Bitcoin              | btc    |          592307393555 |       32378.0 |     41417.93 |   True    |       160 |     5438800.0 |     5180480.0 |     -258323.0 |
+2021-05-23 16:58:54,400: root: INFO: Ethereum             | eth    |          205465875107 |       1842.48 |      2981.81 |   True    |       154 |      305491.0 |      283742.0 |      -21749.2 |
+2021-05-23 16:58:54,529: root: INFO: Tether               | usdt   |           59376645917 |      0.995979 |          1.0 |   True    |       140 |       139.014 |       139.437 |      0.423386 |
+2021-05-23 18:22:10,144: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:22:10,145: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:22:10,146: root: INFO: 
+2021-05-23 18:22:10,340: root: INFO: Bitcoin              | btc    |          604199407772 |       32442.0 |     41530.34 |   True    |       161 |     5471240.0 |     5223160.0 |     -248083.0 |
+2021-05-23 18:22:10,496: root: INFO: Ethereum             | eth    |          217322624337 |       1883.54 |      2993.02 |   True    |       155 |      307375.0 |      291949.0 |      -15425.9 |
+2021-05-23 18:22:10,670: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       141 |       139.998 |       138.785 |      -1.21266 |
+2021-05-23 18:23:10,960: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:23:10,960: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:23:10,961: root: INFO: 
+2021-05-23 18:23:11,144: root: INFO: Bitcoin              | btc    |          604199407772 |       32454.0 |     41530.34 |   True    |       162 |     5503700.0 |     5257550.0 |     -246151.0 |
+2021-05-23 18:23:11,322: root: INFO: Ethereum             | eth    |          217322624337 |       1889.42 |      2993.02 |   True    |       156 |      309264.0 |      294750.0 |      -14514.5 |
+2021-05-23 18:23:11,500: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       142 |       140.982 |        139.77 |      -1.21266 |
+2021-05-23 18:24:11,715: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:24:11,716: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:24:11,716: root: INFO: 
+2021-05-23 18:24:11,922: root: INFO: Bitcoin              | btc    |          604199407772 |       32454.0 |     41530.34 |   True    |       163 |     5536150.0 |     5290000.0 |     -246151.0 |
+2021-05-23 18:24:12,091: root: INFO: Ethereum             | eth    |          217322624337 |       1889.42 |      2993.02 |   True    |       157 |      311153.0 |      296639.0 |      -14514.5 |
+2021-05-23 18:24:12,313: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       143 |       141.967 |       140.754 |      -1.21268 |
+2021-05-23 18:25:13,181: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:25:13,181: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:25:13,182: root: INFO: 
+2021-05-23 18:25:14,411: root: INFO: Bitcoin              | btc    |          604199407772 |       32860.0 |     41530.34 |   True    |       164 |     5569010.0 |     5389040.0 |     -179973.0 |
+2021-05-23 18:25:14,672: root: INFO: Ethereum             | eth    |          217322624337 |       1919.33 |      2993.02 |   True    |       158 |      313073.0 |      303254.0 |      -9818.66 |
+2021-05-23 18:25:14,874: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       144 |       142.951 |       141.738 |      -1.21268 |
+2021-05-23 18:26:15,109: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:26:15,109: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:26:15,110: root: INFO: 
+2021-05-23 18:26:15,295: root: INFO: Bitcoin              | btc    |          604199407772 |       32860.0 |     41530.34 |   True    |       165 |     5601870.0 |     5421900.0 |     -179973.0 |
+2021-05-23 18:26:15,497: root: INFO: Ethereum             | eth    |          217322624337 |       1919.33 |      2993.02 |   True    |       159 |      314992.0 |      305173.0 |      -9818.66 |
+2021-05-23 18:26:15,750: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       145 |       143.935 |       142.722 |      -1.21268 |
+2021-05-23 18:27:15,989: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:27:15,989: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:27:15,990: root: INFO: 
+2021-05-23 18:27:16,261: root: INFO: Bitcoin              | btc    |          604199407772 |       32860.0 |     41530.34 |   True    |       166 |     5634730.0 |     5454760.0 |     -179973.0 |
+2021-05-23 18:27:16,434: root: INFO: Ethereum             | eth    |          217322624337 |       1919.33 |      2993.02 |   True    |       160 |      316911.0 |      307093.0 |      -9818.69 |
+2021-05-23 18:27:16,597: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       146 |       144.919 |       143.707 |      -1.21269 |
+2021-05-23 18:28:17,131: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:28:17,132: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:28:17,132: root: INFO: 
+2021-05-23 18:28:17,359: root: INFO: Bitcoin              | btc    |          604199407772 |       33010.0 |     41530.34 |   True    |       167 |     5667740.0 |     5512670.0 |     -155073.0 |
+2021-05-23 18:28:17,546: root: INFO: Ethereum             | eth    |          217322624337 |       1927.52 |      2993.02 |   True    |       161 |      318839.0 |      310331.0 |      -8508.28 |
+2021-05-23 18:28:17,720: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       147 |       145.904 |       144.691 |      -1.21269 |
+2021-05-23 18:29:17,923: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:29:17,923: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:29:17,923: root: INFO: 
+2021-05-23 18:29:18,176: root: INFO: Bitcoin              | btc    |          604199407772 |       33010.0 |     41530.34 |   True    |       168 |     5700750.0 |     5545680.0 |     -155073.0 |
+2021-05-23 18:29:18,333: root: INFO: Ethereum             | eth    |          217322624337 |       1927.52 |      2993.02 |   True    |       162 |      320767.0 |      312258.0 |      -8508.28 |
+2021-05-23 18:29:18,495: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       148 |       146.888 |       145.675 |      -1.21271 |
+2021-05-23 18:30:18,736: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:30:18,736: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:30:18,737: root: INFO: 
+2021-05-23 18:30:18,927: root: INFO: Bitcoin              | btc    |          604199407772 |       33010.0 |     41530.34 |   True    |       169 |     5733760.0 |     5578690.0 |     -155073.0 |
+2021-05-23 18:30:19,078: root: INFO: Ethereum             | eth    |          217322624337 |       1927.24 |      2993.02 |   True    |       163 |      322694.0 |      314140.0 |      -8553.66 |
+2021-05-23 18:30:19,315: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       149 |       147.872 |        146.66 |      -1.21271 |
+2021-05-23 18:31:19,498: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:31:19,498: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:31:19,499: root: INFO: 
+2021-05-23 18:31:19,660: root: INFO: Bitcoin              | btc    |          617732852180 |       32973.0 |     41530.34 |   True    |       170 |     5766740.0 |     5605410.0 |     -161326.0 |
+2021-05-23 18:31:19,812: root: INFO: Ethereum             | eth    |          223550359890 |       1927.24 |      2993.02 |   True    |       164 |      324621.0 |      316067.0 |      -8553.69 |
+2021-05-23 18:31:20,061: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       150 |       148.857 |       147.644 |      -1.21271 |
+2021-05-23 18:32:20,281: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:32:20,281: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:32:20,281: root: INFO: 
+2021-05-23 18:32:20,450: root: INFO: Bitcoin              | btc    |          617732852180 |       32973.0 |     41530.34 |   True    |       171 |     5799710.0 |     5638380.0 |     -161326.0 |
+2021-05-23 18:32:20,608: root: INFO: Ethereum             | eth    |          223550359890 |       1927.24 |      2993.02 |   True    |       165 |      326548.0 |      317995.0 |      -8553.69 |
+2021-05-23 18:32:20,849: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       151 |       149.841 |       148.628 |      -1.21272 |
+2021-05-23 18:33:21,066: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:33:21,067: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:33:21,067: root: INFO: 
+2021-05-23 18:33:21,246: root: INFO: Bitcoin              | btc    |          617732852180 |       32973.0 |     41530.34 |   True    |       172 |     5832680.0 |     5671360.0 |     -161326.0 |
+2021-05-23 18:33:21,475: root: INFO: Ethereum             | eth    |          223550359890 |       1927.24 |      2993.02 |   True    |       166 |      328476.0 |      319922.0 |      -8553.69 |
+2021-05-23 18:33:21,694: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       152 |       150.825 |       149.613 |      -1.21272 |
+2021-05-23 18:34:22,152: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:34:22,152: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:34:22,153: root: INFO: 
+2021-05-23 18:34:22,405: root: INFO: Bitcoin              | btc    |          617732852180 |       32973.0 |     41530.34 |   True    |       173 |     5865660.0 |     5704330.0 |     -161326.0 |
+2021-05-23 18:34:22,563: root: INFO: Ethereum             | eth    |          223550359890 |       1928.73 |      2993.02 |   True    |       167 |      330404.0 |      322098.0 |      -8306.34 |
+2021-05-23 18:34:22,730: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       153 |        151.81 |       150.597 |      -1.21272 |
+2021-05-23 18:35:22,932: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:35:22,932: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:35:22,932: root: INFO: 
+2021-05-23 18:35:23,116: root: INFO: Bitcoin              | btc    |          617732852180 |       33068.0 |     41580.45 |   True    |       174 |     5898720.0 |     5753830.0 |     -144891.0 |
+2021-05-23 18:35:23,264: root: INFO: Ethereum             | eth    |          223550359890 |       1928.73 |      2993.02 |   True    |       168 |      332333.0 |      324027.0 |      -8306.34 |
+2021-05-23 18:35:23,432: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       154 |       152.794 |       151.581 |      -1.21274 |
+2021-05-23 18:36:23,628: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:36:23,629: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:36:23,629: root: INFO: 
+2021-05-23 18:36:23,824: root: INFO: Bitcoin              | btc    |          617732852180 |       33068.0 |     41580.45 |   True    |       175 |     5931790.0 |     5786900.0 |     -144891.0 |
+2021-05-23 18:36:23,997: root: INFO: Ethereum             | eth    |          223550359890 |       1930.91 |      2993.02 |   True    |       169 |      334264.0 |      326324.0 |      -7940.09 |
+2021-05-23 18:36:24,134: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       155 |       153.778 |       152.565 |      -1.21274 |
+2021-05-23 18:37:24,323: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:37:24,324: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:37:24,324: root: INFO: 
+2021-05-23 18:37:24,631: root: INFO: Bitcoin              | btc    |          617732852180 |       33057.0 |     41580.45 |   True    |       176 |     5964850.0 |     5818030.0 |     -146816.0 |
+2021-05-23 18:37:24,871: root: INFO: Ethereum             | eth    |          223550359890 |       1930.91 |      2993.02 |   True    |       170 |      336195.0 |      328255.0 |      -7940.06 |
+2021-05-23 18:37:25,168: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       156 |       154.762 |        153.55 |      -1.21274 |
+2021-05-23 18:38:25,376: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:38:25,377: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:38:25,377: root: INFO: 
+2021-05-23 18:38:25,582: root: INFO: Bitcoin              | btc    |          617732852180 |       33057.0 |     41580.45 |   True    |       177 |     5997900.0 |     5851090.0 |     -146816.0 |
+2021-05-23 18:38:25,775: root: INFO: Ethereum             | eth    |          223550359890 |       1930.91 |      2993.02 |   True    |       171 |      338126.0 |      330186.0 |      -7940.06 |
+2021-05-23 18:38:25,946: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       157 |       155.747 |       154.534 |      -1.21275 |
+2021-05-23 18:39:26,147: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:39:26,148: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:39:26,148: root: INFO: 
+2021-05-23 18:39:26,348: root: INFO: Bitcoin              | btc    |          617732852180 |       33057.0 |     41580.45 |   True    |       178 |     6030960.0 |     5884150.0 |     -146816.0 |
+2021-05-23 18:39:26,516: root: INFO: Ethereum             | eth    |          223550359890 |        1922.2 |      2993.02 |   True    |       172 |      340048.0 |      330618.0 |      -9429.47 |
+2021-05-23 18:39:26,674: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       158 |       156.731 |       155.518 |      -1.21275 |
+2021-05-23 18:40:26,896: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:40:26,897: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:40:26,897: root: INFO: 
+2021-05-23 18:40:27,083: root: INFO: Bitcoin              | btc    |          617213455184 |       32982.0 |     41580.45 |   True    |       179 |     6063940.0 |     5903780.0 |     -160166.0 |
+2021-05-23 18:40:27,357: root: INFO: Ethereum             | eth    |          222965099515 |        1922.2 |      2993.02 |   True    |       173 |      341970.0 |      332541.0 |      -9429.47 |
+2021-05-23 18:40:27,568: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       159 |       157.715 |       156.503 |      -1.21277 |
+2021-05-23 18:41:27,860: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:41:27,860: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:41:27,860: root: INFO: 
+2021-05-23 18:41:28,008: root: INFO: Bitcoin              | btc    |          617213455184 |       32982.0 |     41580.45 |   True    |       180 |     6096930.0 |     5936760.0 |     -160166.0 |
+2021-05-23 18:41:28,229: root: INFO: Ethereum             | eth    |          222965099515 |        1922.2 |      2993.02 |   True    |       174 |      343892.0 |      334463.0 |      -9429.47 |
+2021-05-23 18:41:28,443: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       160 |         158.7 |       157.487 |      -1.21277 |
+2021-05-23 18:42:28,757: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:42:28,758: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:42:28,758: root: INFO: 
+2021-05-23 18:42:28,950: root: INFO: Bitcoin              | btc    |          617213455184 |       32907.0 |     41580.45 |   True    |       181 |     6129830.0 |     5956170.0 |     -173666.0 |
+2021-05-23 18:42:29,131: root: INFO: Ethereum             | eth    |          222965099515 |       1916.29 |      2993.02 |   True    |       175 |      345809.0 |      335351.0 |      -10457.8 |
+2021-05-23 18:42:29,366: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       161 |       159.684 |       158.471 |      -1.21277 |
+2021-05-23 18:43:29,641: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:43:29,642: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:43:29,642: root: INFO: 
+2021-05-23 18:43:29,845: root: INFO: Bitcoin              | btc    |          617213455184 |       32907.0 |     41580.45 |   True    |       182 |     6162740.0 |     5989070.0 |     -173666.0 |
+2021-05-23 18:43:30,004: root: INFO: Ethereum             | eth    |          222965099515 |       1916.29 |      2993.02 |   True    |       176 |      347725.0 |      337267.0 |      -10457.8 |
+2021-05-23 18:43:30,278: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       162 |       160.668 |       159.455 |      -1.21278 |
+2021-05-23 18:44:31,930: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:44:31,930: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:44:31,931: root: INFO: 
+2021-05-23 18:44:32,167: root: INFO: Bitcoin              | btc    |          617213455184 |       32907.0 |     41580.45 |   True    |       183 |     6195650.0 |     6021980.0 |     -173666.0 |
+2021-05-23 18:44:32,397: root: INFO: Ethereum             | eth    |          222965099515 |       1916.29 |      2993.02 |   True    |       177 |      349641.0 |      339183.0 |      -10457.8 |
+2021-05-23 18:44:32,531: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       163 |       161.653 |        160.44 |      -1.21278 |
+2021-05-23 18:45:32,708: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:45:32,709: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:45:32,709: root: INFO: 
+2021-05-23 18:45:32,955: root: INFO: Bitcoin              | btc    |          617213455184 |       32900.0 |     41580.45 |   True    |       184 |     6228550.0 |     6053600.0 |     -174947.0 |
+2021-05-23 18:45:33,134: root: INFO: Ethereum             | eth    |          222965099515 |       1916.57 |      2993.02 |   True    |       178 |      351558.0 |      341149.0 |      -10408.2 |
+2021-05-23 18:45:33,354: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       164 |       162.637 |       161.424 |       -1.2128 |
+2021-05-23 18:46:33,549: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:46:33,549: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:46:33,550: root: INFO: 
+2021-05-23 18:46:33,736: root: INFO: Bitcoin              | btc    |          617213455184 |       32900.0 |     41580.45 |   True    |       185 |     6261450.0 |     6086500.0 |     -174947.0 |
+2021-05-23 18:46:33,906: root: INFO: Ethereum             | eth    |          222965099515 |       1916.57 |      2993.02 |   True    |       179 |      353474.0 |      343066.0 |      -10408.2 |
+2021-05-23 18:46:34,069: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       165 |       163.621 |       162.408 |       -1.2128 |
+2021-05-23 18:47:34,223: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:47:34,224: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:47:34,224: root: INFO: 
+2021-05-23 18:47:34,389: root: INFO: Bitcoin              | btc    |          617213455184 |       32900.0 |     41580.45 |   True    |       186 |     6294350.0 |     6119400.0 |     -174947.0 |
+2021-05-23 18:47:34,571: root: INFO: Ethereum             | eth    |          222965099515 |       1916.57 |      2993.02 |   True    |       180 |      355391.0 |      344983.0 |      -10408.2 |
+2021-05-23 18:47:34,743: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       166 |       164.605 |       163.393 |       -1.2128 |
+2021-05-23 18:48:34,943: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:48:34,943: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:48:34,944: root: INFO: 
+2021-05-23 18:48:35,145: root: INFO: Bitcoin              | btc    |          617213455184 |       32712.0 |     41580.45 |   True    |       187 |     6327060.0 |     6117140.0 |     -209915.0 |
+2021-05-23 18:48:35,304: root: INFO: Ethereum             | eth    |          222965099515 |       1908.95 |      2993.02 |   True    |       181 |      357300.0 |      345520.0 |      -11779.8 |
+2021-05-23 18:48:35,487: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       167 |        165.59 |       164.377 |      -1.21281 |
+2021-05-23 18:49:35,686: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:49:35,687: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:49:35,687: root: INFO: 
+2021-05-23 18:49:35,856: root: INFO: Bitcoin              | btc    |          617213455184 |       32712.0 |     41580.45 |   True    |       188 |     6359770.0 |     6149860.0 |     -209915.0 |
+2021-05-23 18:49:36,061: root: INFO: Ethereum             | eth    |          222965099515 |       1908.95 |      2993.02 |   True    |       182 |      359209.0 |      347429.0 |      -11779.8 |
+2021-05-23 18:49:38,195: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       168 |       166.574 |       165.361 |      -1.21281 |
+2021-05-23 18:50:38,933: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:50:38,933: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:50:38,934: root: INFO: 
+2021-05-23 18:50:39,159: root: INFO: Bitcoin              | btc    |          612153680654 |       32823.0 |     41580.45 |   True    |       189 |     6392590.0 |     6203550.0 |     -189047.0 |
+2021-05-23 18:50:39,306: root: INFO: Ethereum             | eth    |          221428425629 |       1908.95 |      2993.02 |   True    |       183 |      361118.0 |      349338.0 |      -11779.8 |
+2021-05-23 18:50:39,476: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       169 |       167.558 |       166.346 |      -1.21281 |
+2021-05-23 18:51:39,773: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:51:39,773: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:51:39,773: root: INFO: 
+2021-05-23 18:51:39,934: root: INFO: Bitcoin              | btc    |          612153680654 |       32823.0 |     41580.45 |   True    |       190 |     6425420.0 |     6236370.0 |     -189047.0 |
+2021-05-23 18:51:40,391: root: INFO: Ethereum             | eth    |          221428425629 |       1910.19 |      2993.02 |   True    |       184 |      363028.0 |      351475.0 |      -11552.8 |
+2021-05-23 18:51:41,516: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       170 |       168.543 |        167.33 |      -1.21283 |
+2021-05-23 18:52:41,718: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:52:41,719: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:52:41,719: root: INFO: 
+2021-05-23 18:52:41,896: root: INFO: Bitcoin              | btc    |          612153680654 |       32823.0 |     41580.45 |   True    |       191 |     6458240.0 |     6269190.0 |     -189047.0 |
+2021-05-23 18:52:42,096: root: INFO: Ethereum             | eth    |          221428425629 |       1910.19 |      2995.69 |   True    |       185 |      364938.0 |      353385.0 |      -11552.8 |
+2021-05-23 18:52:42,298: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       171 |       169.527 |       168.314 |      -1.21283 |
+2021-05-23 18:53:42,518: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:53:42,519: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:53:42,520: root: INFO: 
+2021-05-23 18:53:42,680: root: INFO: Bitcoin              | btc    |          612153680654 |       32823.0 |     41580.45 |   True    |       192 |     6491060.0 |     6302020.0 |     -189047.0 |
+2021-05-23 18:53:42,915: root: INFO: Ethereum             | eth    |          221428425629 |       1910.19 |      2995.69 |   True    |       186 |      366848.0 |      355295.0 |      -11552.8 |
+2021-05-23 18:53:43,087: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       172 |       170.511 |       169.298 |      -1.21283 |
+2021-05-23 18:54:43,287: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:54:43,287: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:54:43,288: root: INFO: 
+2021-05-23 18:54:43,481: root: INFO: Bitcoin              | btc    |          612153680654 |       32670.0 |     41580.45 |   True    |       193 |     6523730.0 |     6305310.0 |     -218423.0 |
+2021-05-23 18:54:44,133: root: INFO: Ethereum             | eth    |          221428425629 |       1903.03 |      2995.69 |   True    |       187 |      368751.0 |      355867.0 |      -12884.6 |
+2021-05-23 18:54:44,361: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       173 |       171.496 |       170.283 |      -1.21284 |
+2021-05-23 18:55:44,590: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:55:44,591: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:55:44,592: root: INFO: 
+2021-05-23 18:55:44,798: root: INFO: Bitcoin              | btc    |          612153680654 |       32670.0 |     41580.45 |   True    |       194 |     6556400.0 |     6337980.0 |     -218423.0 |
+2021-05-23 18:55:44,952: root: INFO: Ethereum             | eth    |          221428425629 |       1903.03 |      2995.69 |   True    |       188 |      370654.0 |      357770.0 |      -12884.6 |
+2021-05-23 18:55:45,137: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       174 |        172.48 |       171.267 |      -1.21284 |
+2021-05-23 18:56:45,345: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:56:45,345: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:56:45,346: root: INFO: 
+2021-05-23 18:56:45,522: root: INFO: Bitcoin              | btc    |          612153680654 |       32670.0 |     41580.45 |   True    |       195 |     6589070.0 |     6370650.0 |     -218423.0 |
+2021-05-23 18:56:45,725: root: INFO: Ethereum             | eth    |          221428425629 |       1903.03 |      2995.69 |   True    |       189 |      372557.0 |      359673.0 |      -12884.6 |
+2021-05-23 18:56:45,878: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       175 |       173.464 |       172.251 |      -1.21286 |
+2021-05-23 18:57:46,157: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:57:46,157: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:57:46,157: root: INFO: 
+2021-05-23 18:57:46,322: root: INFO: Bitcoin              | btc    |          612153680654 |       32641.0 |     41580.45 |   True    |       196 |     6621710.0 |     6397640.0 |     -224078.0 |
+2021-05-23 18:57:46,485: root: INFO: Ethereum             | eth    |          221428425629 |       1902.02 |      2995.69 |   True    |       190 |      374459.0 |      361384.0 |      -13075.5 |
+2021-05-23 18:57:46,696: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       176 |       174.448 |       173.236 |      -1.21286 |
+2021-05-23 18:58:46,900: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:58:46,900: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:58:46,901: root: INFO: 
+2021-05-23 18:58:47,087: root: INFO: Bitcoin              | btc    |          612153680654 |       32639.0 |     41580.45 |   True    |       197 |     6654350.0 |     6429880.0 |     -224470.0 |
+2021-05-23 18:58:47,261: root: INFO: Ethereum             | eth    |          221428425629 |       1903.16 |      2995.69 |   True    |       191 |      376362.0 |      363504.0 |      -12858.9 |
+2021-05-23 18:58:47,428: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       177 |       175.433 |        174.22 |      -1.21286 |
+2021-05-23 18:59:48,471: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 18:59:48,472: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 18:59:48,472: root: INFO: 
+2021-05-23 18:59:48,850: root: INFO: Bitcoin              | btc    |          612153680654 |       32639.0 |     41580.45 |   True    |       198 |     6686990.0 |     6462520.0 |     -224470.0 |
+2021-05-23 18:59:49,210: root: INFO: Ethereum             | eth    |          221428425629 |       1903.16 |      2995.69 |   True    |       192 |      378266.0 |      365407.0 |      -12858.9 |
+2021-05-23 18:59:49,889: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       178 |       176.417 |       175.204 |      -1.21288 |
+2021-05-23 19:00:50,201: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:00:50,202: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:00:50,202: root: INFO: 
+2021-05-23 19:00:50,360: root: INFO: Bitcoin              | btc    |          610788108595 |       32639.0 |     41580.45 |   True    |       199 |     6719630.0 |     6495160.0 |     -224470.0 |
+2021-05-23 19:00:50,614: root: INFO: Ethereum             | eth    |          220757600420 |       1903.16 |      2995.69 |   True    |       193 |      380169.0 |      367310.0 |      -12858.9 |
+2021-05-23 19:00:50,778: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       179 |       177.401 |       176.188 |      -1.21288 |
+2021-05-23 19:01:50,987: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:01:50,987: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:01:50,988: root: INFO: 
+2021-05-23 19:01:51,167: root: INFO: Bitcoin              | btc    |          610788108595 |       32675.0 |     41580.45 |   True    |       200 |     6752310.0 |     6535000.0 |     -217306.0 |
+2021-05-23 19:01:51,317: root: INFO: Ethereum             | eth    |          220757600420 |       1904.02 |      2995.69 |   True    |       194 |      382073.0 |      369380.0 |      -12692.9 |
+2021-05-23 19:01:51,478: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       180 |       178.386 |       177.173 |      -1.21289 |
+2021-05-23 19:02:51,713: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:02:51,714: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:02:51,714: root: INFO: 
+2021-05-23 19:02:52,248: root: INFO: Bitcoin              | btc    |          610788108595 |       32675.0 |     41580.45 |   True    |       201 |     6784980.0 |     6567680.0 |     -217306.0 |
+2021-05-23 19:02:52,403: root: INFO: Ethereum             | eth    |          220757600420 |       1904.02 |      2995.69 |   True    |       195 |      383977.0 |      371284.0 |      -12692.9 |
+2021-05-23 19:02:52,566: root: INFO: Tether               | usdt   |           58679995437 |      0.984293 |          1.0 |   True    |       181 |        179.37 |       178.157 |      -1.21289 |
+2021-05-23 19:03:52,768: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:03:52,768: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:03:52,768: root: INFO: 
+2021-05-23 19:03:52,936: root: INFO: Bitcoin              | btc    |          610788108595 |       32675.0 |     41580.45 |   True    |       202 |     6817660.0 |     6600350.0 |     -217306.0 |
+2021-05-23 19:03:53,108: root: INFO: Ethereum             | eth    |          220757600420 |       1904.02 |      2995.69 |   True    |       196 |      385881.0 |      373188.0 |      -12692.9 |
+2021-05-23 19:03:53,254: root: INFO: Tether               | usdt   |           58679995437 |      0.997203 |          1.0 |   True    |       182 |       180.367 |       181.491 |       1.12383 |
+2021-05-23 19:04:53,454: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:04:53,454: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:04:53,455: root: INFO: 
+2021-05-23 19:04:53,706: root: INFO: Bitcoin              | btc    |          610788108595 |       32675.0 |     41580.45 |   True    |       203 |     6850330.0 |     6633020.0 |     -217306.0 |
+2021-05-23 19:04:53,848: root: INFO: Ethereum             | eth    |          220757600420 |       1904.02 |      2995.69 |   True    |       197 |      387785.0 |      375092.0 |      -12692.9 |
+2021-05-23 19:04:53,986: root: INFO: Tether               | usdt   |           58679995437 |      0.997203 |          1.0 |   True    |       183 |       181.364 |       182.488 |       1.12381 |
+2021-05-23 19:05:54,447: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:05:54,447: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:05:54,447: root: INFO: 
+2021-05-23 19:05:54,728: root: INFO: Bitcoin              | btc    |          610788108595 |       32531.0 |     41526.75 |   True    |       204 |     6882860.0 |     6636320.0 |     -246538.0 |
+2021-05-23 19:05:54,927: root: INFO: Ethereum             | eth    |          220757600420 |       1893.81 |      2995.69 |   True    |       198 |      389679.0 |      374974.0 |      -14704.3 |
+2021-05-23 19:05:55,269: root: INFO: Tether               | usdt   |           58679995437 |      0.997203 |          1.0 |   True    |       184 |       182.362 |       183.485 |       1.12381 |
+2021-05-23 19:06:55,460: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:06:55,460: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:06:55,462: root: INFO: 
+2021-05-23 19:06:55,670: root: INFO: Bitcoin              | btc    |          610788108595 |       32531.0 |     41526.75 |   True    |       205 |     6915390.0 |     6668860.0 |     -246538.0 |
+2021-05-23 19:06:55,836: root: INFO: Ethereum             | eth    |          220757600420 |       1893.81 |      2995.69 |   True    |       199 |      391572.0 |      376868.0 |      -14704.3 |
+2021-05-23 19:06:56,014: root: INFO: Tether               | usdt   |           58679995437 |      0.997203 |          1.0 |   True    |       185 |       183.359 |       184.483 |       1.12381 |
+2021-05-23 19:07:56,254: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:07:56,254: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:07:56,255: root: INFO: 
+2021-05-23 19:07:56,439: root: INFO: Bitcoin              | btc    |          610788108595 |       32531.0 |     41526.75 |   True    |       206 |     6947920.0 |     6701390.0 |     -246538.0 |
+2021-05-23 19:07:56,608: root: INFO: Ethereum             | eth    |          220757600420 |       1893.81 |      2995.69 |   True    |       200 |      393466.0 |      378762.0 |      -14704.3 |
+2021-05-23 19:07:56,798: root: INFO: Tether               | usdt   |           58679995437 |      0.994611 |          1.0 |   True    |       186 |       184.353 |       184.998 |      0.644287 |
+2021-05-23 19:08:57,820: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:08:57,820: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:08:57,821: root: INFO: 
+2021-05-23 19:08:58,342: root: INFO: Bitcoin              | btc    |          610788108595 |       32498.0 |     41526.75 |   True    |       207 |     6980420.0 |     6727090.0 |     -253336.0 |
+2021-05-23 19:08:58,614: root: INFO: Ethereum             | eth    |          220757600420 |       1890.41 |      2995.69 |   True    |       201 |      395357.0 |      379972.0 |      -15384.3 |
+2021-05-23 19:08:58,836: root: INFO: Tether               | usdt   |           58679995437 |      0.994611 |          1.0 |   True    |       187 |       185.348 |       185.992 |      0.644287 |
+2021-05-23 19:09:59,061: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:09:59,061: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:09:59,061: root: INFO: 
+2021-05-23 19:09:59,242: root: INFO: Bitcoin              | btc    |          610788108595 |       32498.0 |     41526.75 |   True    |       208 |     7012920.0 |     6759580.0 |     -253336.0 |
+2021-05-23 19:09:59,416: root: INFO: Ethereum             | eth    |          220757600420 |       1890.41 |      2995.69 |   True    |       202 |      397247.0 |      381863.0 |      -15384.3 |
+2021-05-23 19:09:59,577: root: INFO: Tether               | usdt   |           58679995437 |      0.994611 |          1.0 |   True    |       188 |       186.343 |       186.987 |      0.644287 |
+2021-05-23 19:10:59,829: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:10:59,829: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:10:59,830: root: INFO: 
+2021-05-23 19:11:00,155: root: INFO: Bitcoin              | btc    |          608148975450 |       32458.0 |     41526.75 |   True    |       209 |     7045380.0 |     6783720.0 |     -261656.0 |
+2021-05-23 19:11:00,363: root: INFO: Ethereum             | eth    |          219278304142 |       1891.84 |      2995.69 |   True    |       203 |      399139.0 |      384044.0 |      -15095.5 |
+2021-05-23 19:11:00,559: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       189 |       187.337 |       187.981 |      0.644287 |
+2021-05-23 19:12:00,746: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:12:00,747: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:12:00,747: root: INFO: 
+2021-05-23 19:12:01,091: root: INFO: Bitcoin              | btc    |          608148975450 |       32458.0 |     41526.75 |   True    |       210 |     7077840.0 |     6816180.0 |     -261656.0 |
+2021-05-23 19:12:01,254: root: INFO: Ethereum             | eth    |          219278304142 |       1891.84 |      2995.69 |   True    |       204 |      401031.0 |      385935.0 |      -15095.5 |
+2021-05-23 19:12:01,569: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       190 |       188.332 |       188.976 |      0.644272 |
+2021-05-23 19:13:02,094: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:13:02,095: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:13:02,095: root: INFO: 
+2021-05-23 19:13:02,391: root: INFO: Bitcoin              | btc    |          608148975450 |       32533.0 |     41526.75 |   True    |       211 |     7110370.0 |     6864460.0 |     -245906.0 |
+2021-05-23 19:13:02,595: root: INFO: Ethereum             | eth    |          219278304142 |       1897.37 |      2995.69 |   True    |       205 |      402928.0 |      388961.0 |      -13967.3 |
+2021-05-23 19:13:02,868: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       191 |       189.326 |       189.971 |      0.644272 |
+2021-05-23 19:14:03,625: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:14:03,625: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:14:03,626: root: INFO: 
+2021-05-23 19:14:04,053: root: INFO: Bitcoin              | btc    |          608148975450 |       32533.0 |     41526.75 |   True    |       212 |     7142900.0 |     6897000.0 |     -245906.0 |
+2021-05-23 19:14:04,329: root: INFO: Ethereum             | eth    |          219278304142 |       1897.37 |      2995.69 |   True    |       206 |      404826.0 |      390858.0 |      -13967.3 |
+2021-05-23 19:14:04,521: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       192 |       190.321 |       190.965 |      0.644272 |
+2021-05-23 19:15:05,107: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:15:05,108: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:15:05,108: root: INFO: 
+2021-05-23 19:15:05,603: root: INFO: Bitcoin              | btc    |          608148975450 |       32558.0 |     41526.75 |   True    |       213 |     7175460.0 |     6934850.0 |     -240606.0 |
+2021-05-23 19:15:06,024: root: INFO: Ethereum             | eth    |          219278304142 |       1897.37 |      2995.69 |   True    |       207 |      406723.0 |      392756.0 |      -13967.3 |
+2021-05-23 19:15:06,384: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       193 |       191.316 |        191.96 |      0.644272 |
+2021-05-23 19:16:07,186: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:16:07,186: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:16:07,186: root: INFO: 
+2021-05-23 19:16:07,376: root: INFO: Bitcoin              | btc    |          608148975450 |       32558.0 |     41526.75 |   True    |       214 |     7208020.0 |     6967410.0 |     -240606.0 |
+2021-05-23 19:16:07,557: root: INFO: Ethereum             | eth    |          219278304142 |       1903.85 |      2995.69 |   True    |       208 |      408627.0 |      396001.0 |      -12626.0 |
+2021-05-23 19:16:07,700: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       194 |        192.31 |       192.955 |      0.644272 |
+2021-05-23 19:17:07,910: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:17:07,911: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:17:07,911: root: INFO: 
+2021-05-23 19:17:08,118: root: INFO: Bitcoin              | btc    |          608148975450 |       32558.0 |     41526.75 |   True    |       215 |     7240580.0 |     6999970.0 |     -240606.0 |
+2021-05-23 19:17:08,318: root: INFO: Ethereum             | eth    |          219278304142 |       1903.85 |      2995.69 |   True    |       209 |      410531.0 |      397905.0 |      -12626.0 |
+2021-05-23 19:17:08,458: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       195 |       193.305 |       193.949 |      0.644257 |
+2021-05-23 19:18:08,748: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:18:08,748: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:18:08,748: root: INFO: 
+2021-05-23 19:18:08,939: root: INFO: Bitcoin              | btc    |          608148975450 |       32701.0 |     41526.75 |   True    |       216 |     7273280.0 |     7063420.0 |     -209861.0 |
+2021-05-23 19:18:09,121: root: INFO: Ethereum             | eth    |          219278304142 |       1923.12 |      2995.69 |   True    |       210 |      412454.0 |      403855.0 |      -8598.56 |
+2021-05-23 19:18:09,340: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       196 |       194.299 |       194.944 |      0.644257 |
+2021-05-23 19:19:10,065: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:19:10,066: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:19:10,066: root: INFO: 
+2021-05-23 19:19:10,381: root: INFO: Bitcoin              | btc    |          608148975450 |       32701.0 |     41526.75 |   True    |       217 |     7305980.0 |     7096120.0 |     -209861.0 |
+2021-05-23 19:19:10,784: root: INFO: Ethereum             | eth    |          219278304142 |       1923.12 |      2995.69 |   True    |       211 |      414377.0 |      405778.0 |      -8598.56 |
+2021-05-23 19:19:10,995: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       197 |       195.294 |       195.938 |      0.644257 |
+2021-05-23 19:20:11,230: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:20:11,231: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:20:11,231: root: INFO: 
+2021-05-23 19:20:11,423: root: INFO: Bitcoin              | btc    |          608148975450 |       32701.0 |     41526.75 |   True    |       218 |     7338680.0 |     7128820.0 |     -209861.0 |
+2021-05-23 19:20:11,617: root: INFO: Ethereum             | eth    |          219278304142 |       1923.12 |      2995.69 |   True    |       212 |      416300.0 |      407701.0 |      -8598.56 |
+2021-05-23 19:20:11,816: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       198 |       196.289 |       196.933 |      0.644257 |
+2021-05-23 19:21:12,066: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:21:12,066: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:21:12,067: root: INFO: 
+2021-05-23 19:21:12,240: root: INFO: Bitcoin              | btc    |          614564189366 |       32840.0 |     41526.75 |   True    |       219 |     7371520.0 |     7191960.0 |     -179559.0 |
+2021-05-23 19:21:12,415: root: INFO: Ethereum             | eth    |          223072908712 |       1937.95 |      2995.69 |   True    |       213 |      418238.0 |      412783.0 |      -5454.59 |
+2021-05-23 19:21:12,746: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       199 |       197.283 |       197.928 |      0.644257 |
+2021-05-23 19:22:12,950: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:22:12,950: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:22:12,951: root: INFO: 
+2021-05-23 19:22:13,130: root: INFO: Bitcoin              | btc    |          614564189366 |       32840.0 |     41526.75 |   True    |       220 |     7404360.0 |     7224800.0 |     -179559.0 |
+2021-05-23 19:22:13,281: root: INFO: Ethereum             | eth    |          223072908712 |       1937.95 |      2995.69 |   True    |       214 |      420176.0 |      414721.0 |      -5454.59 |
+2021-05-23 19:22:13,463: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       200 |       198.278 |       198.922 |      0.644257 |
+2021-05-23 19:23:13,713: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:23:13,714: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:23:13,714: root: INFO: 
+2021-05-23 19:23:13,906: root: INFO: Bitcoin              | btc    |          614564189366 |       32940.0 |     41526.75 |   True    |       221 |     7437300.0 |     7279740.0 |     -157559.0 |
+2021-05-23 19:23:14,162: root: INFO: Ethereum             | eth    |          223072908712 |       1937.95 |      2998.47 |   True    |       215 |      422114.0 |      416659.0 |      -5454.56 |
+2021-05-23 19:23:14,336: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       201 |       199.273 |       199.917 |      0.644241 |
+2021-05-23 19:24:14,559: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:24:14,559: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:24:14,560: root: INFO: 
+2021-05-23 19:24:14,763: root: INFO: Bitcoin              | btc    |          614564189366 |       32940.0 |     41526.75 |   True    |       222 |     7470240.0 |     7312680.0 |     -157559.0 |
+2021-05-23 19:24:15,033: root: INFO: Ethereum             | eth    |          223072908712 |       1968.12 |      2998.47 |   True    |       216 |      424082.0 |      425114.0 |       1031.97 |
+2021-05-23 19:24:15,236: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       202 |       200.267 |       200.911 |      0.644241 |
+2021-05-23 19:25:15,440: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:25:15,440: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:25:15,441: root: INFO: 
+2021-05-23 19:25:15,613: root: INFO: Bitcoin              | btc    |          614564189366 |       32940.0 |     41526.75 |   True    |       223 |     7503180.0 |     7345620.0 |     -157559.0 |
+2021-05-23 19:25:15,764: root: INFO: Ethereum             | eth    |          223072908712 |       1968.12 |      2998.47 |   True    |       217 |      426050.0 |      427082.0 |       1031.97 |
+2021-05-23 19:25:15,902: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       203 |       201.262 |       201.906 |      0.644241 |
+2021-05-23 19:26:17,723: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:26:17,723: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:26:17,723: root: INFO: 
+2021-05-23 19:26:18,382: root: INFO: Bitcoin              | btc    |          614564189366 |       33202.0 |     41526.75 |   True    |       224 |     7536380.0 |     7437250.0 |      -99133.0 |
+2021-05-23 19:26:18,647: root: INFO: Ethereum             | eth    |          223072908712 |       1968.12 |      2998.47 |   True    |       218 |      428018.0 |      429050.0 |       1031.97 |
+2021-05-23 19:26:18,815: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       204 |       202.256 |       202.901 |      0.644241 |
+2021-05-23 19:27:19,030: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:27:19,031: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:27:19,031: root: INFO: 
+2021-05-23 19:27:19,247: root: INFO: Bitcoin              | btc    |          614564189366 |       33202.0 |     41526.75 |   True    |       225 |     7569580.0 |     7470450.0 |      -99133.0 |
+2021-05-23 19:27:19,443: root: INFO: Ethereum             | eth    |          223072908712 |       1971.36 |      2998.47 |   True    |       219 |      429990.0 |      431728.0 |       1738.28 |
+2021-05-23 19:27:19,633: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       205 |       203.251 |       203.895 |      0.644241 |
+2021-05-23 19:28:19,845: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:28:19,845: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:28:19,845: root: INFO: 
+2021-05-23 19:28:20,081: root: INFO: Bitcoin              | btc    |          614564189366 |       33252.0 |     41526.75 |   True    |       226 |     7602840.0 |     7514950.0 |      -87883.0 |
+2021-05-23 19:28:20,258: root: INFO: Ethereum             | eth    |          223072908712 |       1985.41 |      2998.47 |   True    |       220 |      431975.0 |      436790.0 |       4815.25 |
+2021-05-23 19:28:20,411: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       206 |       204.246 |        204.89 |      0.644241 |
+2021-05-23 19:29:20,607: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:29:20,607: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:29:20,608: root: INFO: 
+2021-05-23 19:29:21,721: root: INFO: Bitcoin              | btc    |          614564189366 |       33252.0 |     41526.75 |   True    |       227 |     7636090.0 |     7548200.0 |      -87883.0 |
+2021-05-23 19:29:22,276: root: INFO: Ethereum             | eth    |          223072908712 |       1985.41 |      2998.47 |   True    |       221 |      433960.0 |      438776.0 |       4815.25 |
+2021-05-23 19:29:22,605: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       207 |        205.24 |       205.884 |      0.644226 |
+2021-05-23 19:30:22,812: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:30:22,812: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:30:22,813: root: INFO: 
+2021-05-23 19:30:23,019: root: INFO: Bitcoin              | btc    |          623148196568 |       33299.0 |     41526.75 |   True    |       228 |     7669390.0 |     7592170.0 |      -77214.0 |
+2021-05-23 19:30:23,172: root: INFO: Ethereum             | eth    |          223072908712 |       1985.41 |      2998.47 |   True    |       222 |      435946.0 |      440761.0 |       4815.25 |
+2021-05-23 19:30:23,335: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       208 |       206.235 |       206.879 |      0.644226 |
+2021-05-23 19:31:28,249: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:31:28,249: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:31:28,249: root: INFO: 
+2021-05-23 19:31:28,408: root: INFO: Bitcoin              | btc    |          623148196568 |       33299.0 |     41526.75 |   True    |       229 |     7702680.0 |     7625470.0 |      -77214.0 |
+2021-05-23 19:31:28,586: root: INFO: Ethereum             | eth    |          230298229419 |        2006.0 |      2998.47 |   True    |       223 |      437952.0 |      447338.0 |       9386.22 |
+2021-05-23 19:31:28,840: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       209 |       207.229 |       207.874 |      0.644226 |
+2021-05-23 19:33:45,098: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:33:45,098: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:33:45,098: root: INFO: 
+2021-05-23 19:33:45,241: root: INFO: Bitcoin              | btc    |          623148196568 |       33540.0 |     41526.75 |   True    |       230 |     7736220.0 |     7714200.0 |      -22025.0 |
+2021-05-23 19:33:45,409: root: INFO: Ethereum             | eth    |          230298229419 |        2006.0 |      2998.47 |   True    |       224 |      439958.0 |      449344.0 |       9386.22 |
+2021-05-23 19:33:45,563: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       210 |       208.224 |       208.868 |      0.644226 |
+2021-05-23 19:34:12,652: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:34:12,653: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:34:12,653: root: INFO: 
+2021-05-23 19:34:12,779: root: INFO: Bitcoin              | btc    |          623148196568 |       33540.0 |     41526.75 |   True    |       231 |     7769760.0 |     7747740.0 |      -22025.0 |
+2021-05-23 19:34:12,922: root: INFO: Ethereum             | eth    |          230298229419 |        2006.0 |      2998.47 |   True    |       225 |      441964.0 |      451350.0 |       9386.22 |
+2021-05-23 19:34:13,025: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       211 |       209.219 |       209.863 |      0.644226 |
+2021-05-23 19:35:13,300: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:35:13,300: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:35:13,300: root: INFO: 
+2021-05-23 19:35:13,513: root: INFO: Bitcoin              | btc    |          623148196568 |       33540.0 |     41526.75 |   True    |       232 |     7803300.0 |     7781280.0 |      -22025.0 |
+2021-05-23 19:35:13,714: root: INFO: Ethereum             | eth    |          230298229419 |       1988.83 |      2998.47 |   True    |       226 |      443953.0 |      449476.0 |       5522.94 |
+2021-05-23 19:35:13,903: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       212 |       210.213 |       210.858 |      0.644226 |
+2021-05-23 19:36:14,103: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:36:14,104: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:36:14,104: root: INFO: 
+2021-05-23 19:36:14,289: root: INFO: Bitcoin              | btc    |          623148196568 |       33540.0 |     41593.62 |   True    |       233 |     7836840.0 |     7814820.0 |      -22025.0 |
+2021-05-23 19:36:14,491: root: INFO: Ethereum             | eth    |          230298229419 |       1988.83 |      2998.47 |   True    |       227 |      445941.0 |      451464.0 |       5522.94 |
+2021-05-23 19:36:14,661: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       213 |       211.208 |       211.852 |      0.644211 |
+2021-05-23 19:37:14,871: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:37:14,871: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:37:14,871: root: INFO: 
+2021-05-23 19:37:15,185: root: INFO: Bitcoin              | btc    |          623148196568 |       33200.0 |     41593.62 |   True    |       234 |     7870040.0 |     7768800.0 |     -101245.0 |
+2021-05-23 19:37:15,370: root: INFO: Ethereum             | eth    |          230298229419 |       1988.83 |      2998.47 |   True    |       228 |      447930.0 |      453453.0 |       5522.91 |
+2021-05-23 19:37:15,577: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       214 |       212.203 |       212.847 |      0.644211 |
+2021-05-23 19:38:16,628: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:38:16,629: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:38:16,629: root: INFO: 
+2021-05-23 19:38:16,970: root: INFO: Bitcoin              | btc    |          623148196568 |       33200.0 |     41593.62 |   True    |       235 |     7903240.0 |     7802000.0 |     -101245.0 |
+2021-05-23 19:38:17,153: root: INFO: Ethereum             | eth    |          230298229419 |       1978.19 |      2998.47 |   True    |       229 |      449908.0 |      453006.0 |        3097.0 |
+2021-05-23 19:38:17,317: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       215 |       213.197 |       213.841 |      0.644211 |
+2021-05-23 19:39:17,522: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:39:17,523: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:39:17,523: root: INFO: 
+2021-05-23 19:39:17,733: root: INFO: Bitcoin              | btc    |          623148196568 |       33153.0 |     41593.62 |   True    |       236 |     7936400.0 |     7824110.0 |     -112290.0 |
+2021-05-23 19:39:17,896: root: INFO: Ethereum             | eth    |          230298229419 |       1978.19 |      2998.47 |   True    |       230 |      451887.0 |      454984.0 |        3097.0 |
+2021-05-23 19:39:18,110: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       216 |       214.192 |       214.836 |      0.644211 |
+2021-05-23 19:40:18,310: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:40:18,311: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:40:18,311: root: INFO: 
+2021-05-23 19:40:18,571: root: INFO: Bitcoin              | btc    |          623148196568 |       33153.0 |     41593.62 |   True    |       237 |     7969550.0 |     7857260.0 |     -112290.0 |
+2021-05-23 19:40:18,757: root: INFO: Ethereum             | eth    |          230298229419 |       1978.19 |      2998.47 |   True    |       231 |      453865.0 |      456962.0 |        3097.0 |
+2021-05-23 19:40:18,951: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       217 |       215.186 |       215.831 |      0.644211 |
+2021-05-23 19:43:39,881: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:43:39,881: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:43:39,881: root: INFO: 
+2021-05-23 19:43:40,255: root: INFO: Bitcoin              | btc    |          620424282009 |       33146.0 |     41593.62 |   True    |       238 |     8002700.0 |     7888750.0 |     -113949.0 |
+2021-05-23 19:43:40,611: root: INFO: Ethereum             | eth    |          229375982515 |       1977.46 |      2998.47 |   True    |       232 |      455842.0 |      458771.0 |       2928.38 |
+2021-05-23 19:43:40,815: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       218 |       216.181 |       216.825 |      0.644211 |
+2021-05-23 19:44:23,296: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:44:23,297: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:44:23,297: root: INFO: 
+2021-05-23 19:44:23,467: root: INFO: Bitcoin              | btc    |          620424282009 |       33146.0 |     41593.62 |   True    |       239 |     8035840.0 |     7921890.0 |     -113949.0 |
+2021-05-23 19:44:23,650: root: INFO: Ethereum             | eth    |          229375982515 |       1978.63 |      2998.47 |   True    |       233 |      457821.0 |      461021.0 |       3199.81 |
+2021-05-23 19:44:23,829: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       219 |       217.176 |        217.82 |      0.644196 |
+2021-05-23 19:45:24,017: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:45:24,018: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:45:24,018: root: INFO: 
+2021-05-23 19:45:24,190: root: INFO: Bitcoin              | btc    |          620424282009 |       33146.0 |     41593.62 |   True    |       240 |     8068990.0 |     7955040.0 |     -113949.0 |
+2021-05-23 19:45:24,336: root: INFO: Ethereum             | eth    |          229375982515 |       1978.63 |      2998.47 |   True    |       234 |      459800.0 |      462999.0 |       3199.81 |
+2021-05-23 19:45:24,518: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       220 |        218.17 |       218.814 |      0.644196 |
+2021-05-23 19:46:24,790: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:46:24,790: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:46:24,791: root: INFO: 
+2021-05-23 19:46:25,061: root: INFO: Bitcoin              | btc    |          620424282009 |       33126.0 |     41593.62 |   True    |       241 |     8102120.0 |     7983370.0 |     -118749.0 |
+2021-05-23 19:46:25,389: root: INFO: Ethereum             | eth    |          229375982515 |       1978.63 |      2998.47 |   True    |       235 |      461778.0 |      464978.0 |       3199.84 |
+2021-05-23 19:46:25,544: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       221 |       219.165 |       219.809 |      0.644196 |
+2021-05-23 19:46:52,330: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:46:52,330: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:46:52,330: root: INFO: 
+2021-05-23 19:46:52,463: root: INFO: Bitcoin              | btc    |          620424282009 |       33126.0 |     41593.62 |   True    |       242 |     8135240.0 |     8016490.0 |     -118749.0 |
+2021-05-23 19:46:52,586: root: INFO: Ethereum             | eth    |          229375982515 |       1978.63 |      2998.47 |   True    |       236 |      463757.0 |      466957.0 |       3199.84 |
+2021-05-23 19:46:52,695: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       222 |       220.159 |       220.804 |      0.644196 |
+2021-05-23 19:47:53,078: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:47:53,079: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:47:53,079: root: INFO: 
+2021-05-23 19:47:53,431: root: INFO: Bitcoin              | btc    |          620424282009 |       33033.0 |     41593.62 |   True    |       243 |     8168270.0 |     8027020.0 |     -141255.0 |
+2021-05-23 19:47:53,768: root: INFO: Ethereum             | eth    |          229375982515 |       1977.45 |      2998.47 |   True    |       237 |      465734.0 |      468656.0 |       2921.34 |
+2021-05-23 19:47:53,969: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       223 |       221.154 |       221.798 |      0.644196 |
+2021-05-23 19:48:54,233: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:48:54,234: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:48:54,234: root: INFO: 
+2021-05-23 19:49:00,865: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:49:00,865: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:49:00,865: root: INFO: 
+2021-05-23 19:49:00,969: root: INFO: Bitcoin              | btc    |          620424282009 |       32970.0 |     41593.62 |   True    |       244 |     8201240.0 |     8044680.0 |     -156564.0 |
+2021-05-23 19:49:01,424: root: INFO: Ethereum             | eth    |          229375982515 |       1971.35 |      2998.47 |   True    |       238 |      467706.0 |      469181.0 |       1475.66 |
+2021-05-23 19:49:01,898: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       224 |       222.149 |       222.793 |      0.644196 |
+2021-05-23 19:50:05,738: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:50:05,739: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:50:05,739: root: INFO: 
+2021-05-23 19:50:06,012: root: INFO: Bitcoin              | btc    |          616988561729 |       32970.0 |     41593.62 |   True    |       245 |     8234210.0 |     8077650.0 |     -156564.0 |
+2021-05-23 19:50:06,187: root: INFO: Ethereum             | eth    |          229375982515 |       1968.51 |      2998.47 |   True    |       239 |      469674.0 |      470474.0 |       799.781 |
+2021-05-23 19:50:06,360: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |       225 |       223.143 |       223.787 |       0.64418 |
+2021-05-23 19:54:40,986: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:54:40,986: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:54:40,986: root: INFO: 
+2021-05-23 19:55:38,445: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:55:38,445: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:55:38,445: root: INFO: 
+2021-05-23 19:55:39,213: root: INFO: Bitcoin              | btc    |          616988561729 |       32911.0 |     41593.62 |   True    |         1 |       32911.0 |       32911.0 |           0.0 |
+2021-05-23 19:55:39,944: root: INFO: Ethereum             | eth    |          228338346146 |       1963.33 |       3001.0 |   True    |         1 |       1963.33 |       1963.33 |           0.0 |
+2021-05-23 19:55:40,226: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |         1 |      0.994611 |      0.994611 |           0.0 |
+2021-05-23 19:56:40,596: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:56:40,596: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:56:40,597: root: INFO: 
+2021-05-23 19:56:41,462: root: INFO: Bitcoin              | btc    |          616988561729 |       32875.0 |     41593.62 |   True    |         2 |       65786.0 |       65750.0 |         -36.0 |
+2021-05-23 19:56:41,845: root: INFO: Ethereum             | eth    |          228338346146 |       1963.33 |       3001.0 |   True    |         2 |       3926.66 |       3926.66 |           0.0 |
+2021-05-23 19:56:42,172: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |         2 |       1.98922 |       1.98922 |           0.0 |
+2021-05-23 19:57:42,406: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 19:57:42,407: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 19:57:42,407: root: INFO: 
+2021-05-23 19:57:42,590: root: INFO: Bitcoin              | btc    |          616988561729 |       32875.0 |     41593.62 |   True    |         3 |       98661.0 |       98625.0 |         -36.0 |
+2021-05-23 19:57:42,786: root: INFO: Ethereum             | eth    |          228338346146 |       1963.77 |       3001.0 |   True    |         3 |       5890.43 |       5891.31 |      0.880371 |
+2021-05-23 19:57:42,951: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |         3 |       2.98383 |       2.98383 |           0.0 |
+2021-05-23 20:02:35,979: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 20:02:35,980: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 20:02:35,980: root: INFO: 
+2021-05-23 20:02:36,145: root: INFO: Bitcoin              | btc    |          616681809931 |       33079.0 |     41593.62 |   True    |         4 |      131740.0 |      132316.0 |         576.0 |
+2021-05-23 20:02:36,308: root: INFO: Ethereum             | eth    |          228091369080 |       1966.38 |       3001.0 |   True    |         4 |       7856.81 |       7865.52 |       8.71045 |
+2021-05-23 20:02:36,501: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |         4 |       3.97844 |       3.97844 |           0.0 |
+2021-05-23 20:03:36,733: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 20:03:36,734: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 20:03:36,734: root: INFO: 
+2021-05-23 20:03:36,926: root: INFO: Bitcoin              | btc    |          616681809931 |       33079.0 |     41593.62 |   True    |         5 |      164819.0 |      165395.0 |         576.0 |
+2021-05-23 20:03:37,514: root: INFO: Ethereum             | eth    |          228091369080 |       1966.38 |       3001.0 |   True    |         5 |       9823.19 |        9831.9 |       8.71094 |
+2021-05-23 20:03:38,276: root: INFO: Tether               | usdt   |           59295110844 |      0.994611 |          1.0 |   True    |         5 |       4.97305 |       4.97305 |           0.0 |
+2021-05-23 20:04:44,430: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 20:04:44,431: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 20:04:44,431: root: INFO: 
+2021-05-23 20:04:44,777: root: INFO: Bitcoin              | btc    |          616681809931 |       33079.0 |     41593.62 |   True    |         6 |      197898.0 |      198474.0 |         576.0 |
+2021-05-23 20:04:45,028: root: INFO: Ethereum             | eth    |          228091369080 |       1987.02 |       3001.0 |   True    |         6 |       11810.2 |       11922.1 |       111.911 |
+2021-05-23 20:04:46,156: root: INFO: Tether               | usdt   |           59295110844 |           1.0 |          1.0 |   False   |         5 |       4.97305 |           5.0 |     0.0269451 |
+2021-05-23 20:06:11,445: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 20:06:11,445: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 20:06:11,446: root: INFO: 
+2021-05-23 20:06:12,828: root: INFO: Bitcoin              | btc    |          616681809931 |       33478.0 |     41593.62 |   True    |         7 |      231376.0 |      234346.0 |        2970.0 |
+2021-05-23 20:06:12,999: root: INFO: Ethereum             | eth    |          228091369080 |       1987.02 |       3001.0 |   True    |         7 |       13797.2 |       13909.1 |       111.912 |
+2021-05-23 20:06:13,152: root: INFO: Tether               | usdt   |           59295110844 |           1.0 |          1.0 |   False   |         5 |       4.97305 |           5.0 |     0.0269451 |
+2021-05-23 20:09:11,966: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 20:09:11,966: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 20:09:11,968: root: INFO: 
+2021-05-23 20:09:12,149: root: INFO: Bitcoin              | btc    |          616681809931 |       33478.0 |     41634.62 |   True    |         8 |      264854.0 |      267824.0 |        2970.0 |
+2021-05-23 20:09:12,879: root: INFO: Ethereum             | eth    |          228091369080 |       2019.04 |       3001.0 |   True    |         8 |       15816.3 |       16152.3 |       336.052 |
+2021-05-23 20:09:14,815: root: INFO: Tether               | usdt   |           59295110844 |          1.01 |          1.0 |   False   |         5 |       4.97305 |          5.05 |     0.0769453 |
+2021-05-23 20:10:12,963: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 20:10:12,963: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 20:10:12,963: root: INFO: 
+2021-05-23 20:10:13,191: root: INFO: Bitcoin              | btc    |          616681809931 |       33610.0 |     41634.62 |   True    |         9 |      298464.0 |      302490.0 |        4026.0 |
+2021-05-23 20:10:13,397: root: INFO: Ethereum             | eth    |          228091369080 |       2019.04 |       3001.0 |   True    |         9 |       17835.3 |       18171.4 |       336.051 |
+2021-05-23 20:10:13,559: root: INFO: Tether               | usdt   |           59295110844 |          1.01 |          1.0 |   False   |         5 |       4.97305 |          5.05 |     0.0769453 |
+2021-05-23 20:13:05,557: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 20:13:05,557: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 20:13:05,558: root: INFO: 
+2021-05-23 20:13:05,725: root: INFO: Bitcoin              | btc    |          616681809931 |       33632.0 |     41634.62 |   True    |        10 |      332096.0 |      336320.0 |        4224.0 |
+2021-05-23 20:13:05,990: root: INFO: Ethereum             | eth    |          228091369080 |       2032.32 |       3001.0 |   True    |        10 |       19867.6 |       20323.2 |        455.57 |
+2021-05-23 20:13:06,152: root: INFO: Tether               | usdt   |           59295110844 |          1.01 |          1.0 |   False   |         5 |       4.97305 |          5.05 |     0.0769453 |
+2021-05-23 20:14:06,420: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 20:14:06,421: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 20:14:06,421: root: INFO: 
+2021-05-23 20:14:06,704: root: INFO: Bitcoin              | btc    |          629378971392 |       33690.0 |     41634.62 |   True    |        11 |      365786.0 |      370590.0 |        4804.0 |
+2021-05-23 20:14:06,877: root: INFO: Ethereum             | eth    |          235740787658 |       2032.32 |       3001.0 |   True    |        11 |       21899.9 |       22355.5 |        455.57 |
+2021-05-23 20:14:07,107: root: INFO: Tether               | usdt   |           60061564772 |          1.01 |          1.0 |   False   |         5 |       4.97305 |          5.05 |     0.0769453 |
+2021-05-23 20:15:07,546: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 20:15:07,547: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 20:15:07,547: root: INFO: 
+2021-05-23 20:15:08,256: root: INFO: Bitcoin              | btc    |          629378971392 |       33690.0 |     41634.62 |   True    |        12 |      399476.0 |      404280.0 |        4804.0 |
+2021-05-23 20:15:08,611: root: INFO: Ethereum             | eth    |          235740787658 |       2036.42 |       3001.0 |   True    |        12 |       23936.4 |       24437.0 |       500.672 |
+2021-05-23 20:15:09,598: root: INFO: Tether               | usdt   |           60061564772 |          1.01 |          1.0 |   False   |         5 |       4.97305 |          5.05 |     0.0769453 |
+2021-05-23 20:16:28,836: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-23 20:16:28,837: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-23 20:16:28,837: root: INFO: 
+2021-05-23 20:16:29,001: root: INFO: Bitcoin              | btc    |          629378971392 |       33690.0 |     41634.62 |   True    |        13 |      433166.0 |      437970.0 |        4804.0 |
+2021-05-23 20:16:29,193: root: INFO: Ethereum             | eth    |          235740787658 |       2036.42 |       3001.0 |   True    |        13 |       25972.8 |       26473.5 |       500.672 |
+2021-05-23 20:16:29,354: root: INFO: Tether               | usdt   |           60061564772 |          1.01 |          1.0 |   False   |         5 |       4.97305 |          5.05 |     0.0769453 |
+2021-05-24 00:05:18,729: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:05:18,730: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:05:18,730: root: INFO: 
+2021-05-24 00:05:18,945: root: INFO: Bitcoin              | btc    |          654558962028 |       34893.0 |     40857.28 |   True    |        14 |      468059.0 |      488502.0 |       20443.0 |
+2021-05-24 00:05:19,133: root: INFO: Ethereum             | eth    |          245933837150 |       2120.16 |      2898.18 |   True    |        14 |       28092.9 |       29682.2 |       1589.29 |
+2021-05-24 00:05:19,317: root: INFO: Tether               | usdt   |           59993662562 |          1.01 |          1.0 |   False   |         5 |       4.97305 |          5.05 |     0.0769453 |
+2021-05-24 00:06:19,514: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:06:19,514: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:06:19,514: root: INFO: 
+2021-05-24 00:06:19,715: root: INFO: Bitcoin              | btc    |          654558962028 |       34893.0 |     40857.28 |   True    |        15 |      502952.0 |      523395.0 |       20443.0 |
+2021-05-24 00:06:19,896: root: INFO: Ethereum             | eth    |          245933837150 |       2125.68 |      2898.18 |   True    |        15 |       30218.6 |       31885.2 |       1666.57 |
+2021-05-24 00:06:20,020: root: INFO: Tether               | usdt   |           59993662562 |          1.01 |          1.0 |   False   |         5 |       4.97305 |          5.05 |     0.0769453 |
+2021-05-24 00:07:20,511: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:07:20,511: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:07:20,511: root: INFO: 
+2021-05-24 00:07:20,674: root: INFO: Bitcoin              | btc    |          654558962028 |       35197.0 |     40857.28 |   True    |        16 |      538149.0 |      563152.0 |       25003.0 |
+2021-05-24 00:07:20,857: root: INFO: Ethereum             | eth    |          245933837150 |       2125.68 |      2898.18 |   True    |        16 |       32344.3 |       34010.9 |       1666.57 |
+2021-05-24 00:07:21,021: root: INFO: Tether               | usdt   |           59993662562 |          1.01 |          1.0 |   False   |         5 |       4.97305 |          5.05 |     0.0769453 |
+2021-05-24 00:08:21,215: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:08:21,215: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:08:21,215: root: INFO: 
+2021-05-24 00:08:21,374: root: INFO: Bitcoin              | btc    |          654558962028 |       35197.0 |     40857.28 |   True    |        17 |      573346.0 |      598349.0 |       25003.0 |
+2021-05-24 00:08:21,545: root: INFO: Ethereum             | eth    |          245933837150 |       2125.68 |      2898.18 |   True    |        17 |       34470.0 |       36136.6 |       1666.57 |
+2021-05-24 00:08:21,705: root: INFO: Tether               | usdt   |           59993662562 |          1.01 |          1.0 |   False   |         5 |       4.97305 |          5.05 |     0.0769453 |
+2021-05-24 00:09:21,912: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:09:21,913: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:09:21,913: root: INFO: 
+2021-05-24 00:09:22,104: root: INFO: Bitcoin              | btc    |          654558962028 |       35197.0 |     40857.28 |   True    |        18 |      608543.0 |      633546.0 |       25003.0 |
+2021-05-24 00:09:22,257: root: INFO: Ethereum             | eth    |          245933837150 |       2170.66 |      2898.18 |   True    |        18 |       36640.6 |       39071.9 |       2431.23 |
+2021-05-24 00:09:22,486: root: INFO: Tether               | usdt   |           59993662562 |          1.01 |          1.0 |   False   |         5 |       4.97305 |          5.05 |     0.0769453 |
+2021-05-24 00:10:17,116: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:10:17,116: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:10:17,116: root: INFO: 
+2021-05-24 00:10:17,329: root: INFO: Bitcoin              | btc    |          654558962028 |       35197.0 |     40857.28 |   True    |        19 |      643740.0 |      668743.0 |       25003.0 |
+2021-05-24 00:10:17,479: root: INFO: Ethereum             | eth    |          245933837150 |       2170.66 |      2898.18 |   True    |        19 |       38811.3 |       41242.5 |       2431.23 |
+2021-05-24 00:10:17,656: root: INFO: Tether               | usdt   |           59993662562 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:11:17,932: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:11:17,933: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:11:17,933: root: INFO: 
+2021-05-24 00:11:18,104: root: INFO: Bitcoin              | btc    |          654558962028 |       35197.0 |     40857.28 |   True    |        20 |      678937.0 |      703940.0 |       25003.0 |
+2021-05-24 00:11:18,339: root: INFO: Ethereum             | eth    |          245933837150 |       2170.66 |      2898.18 |   True    |        20 |       40982.0 |       43413.2 |       2431.23 |
+2021-05-24 00:11:18,502: root: INFO: Tether               | usdt   |           59993662562 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:12:18,798: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:12:18,798: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:12:18,798: root: INFO: 
+2021-05-24 00:12:18,988: root: INFO: Bitcoin              | btc    |          654558962028 |       35934.0 |     40857.28 |   True    |        21 |      714871.0 |      754614.0 |       39743.0 |
+2021-05-24 00:12:19,138: root: INFO: Ethereum             | eth    |          245933837150 |       2170.66 |      2898.18 |   True    |        21 |       43152.6 |       45583.9 |       2431.23 |
+2021-05-24 00:12:19,318: root: INFO: Tether               | usdt   |           59993662562 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:13:19,493: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:13:19,494: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:13:19,494: root: INFO: 
+2021-05-24 00:13:19,661: root: INFO: Bitcoin              | btc    |          654558962028 |       35934.0 |     40857.28 |   True    |        22 |      750805.0 |      790548.0 |       39743.0 |
+2021-05-24 00:13:19,858: root: INFO: Ethereum             | eth    |          245933837150 |       2170.96 |      2898.18 |   True    |        22 |       45323.6 |       47761.1 |       2437.53 |
+2021-05-24 00:13:20,014: root: INFO: Tether               | usdt   |           59993662562 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:14:20,220: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:14:20,221: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:14:20,221: root: INFO: 
+2021-05-24 00:14:20,413: root: INFO: Bitcoin              | btc    |          672449536751 |       35934.0 |     40857.28 |   True    |        23 |     6473340.0 |      826482.0 |    -5646860.0 |
+2021-05-24 00:14:20,610: root: INFO: Ethereum             | eth    |          251827053258 |       2170.96 |      2898.18 |   True    |        23 |       47494.6 |       49932.1 |       2437.53 |
+2021-05-24 00:14:20,747: root: INFO: Tether               | usdt   |           59993662562 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:15:21,923: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:15:21,924: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:15:21,924: root: INFO: 
+2021-05-24 00:15:22,151: root: INFO: Bitcoin              | btc    |          672449536751 |       35518.0 |     40857.28 |   True    |        24 |     6508860.0 |      852432.0 |    -5656420.0 |
+2021-05-24 00:15:22,404: root: INFO: Ethereum             | eth    |          251827053258 |       2170.96 |      2898.18 |   True    |        24 |       49665.5 |       52103.0 |       2437.53 |
+2021-05-24 00:15:22,600: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:16:19,933: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:16:19,933: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:16:19,933: root: INFO: 
+2021-05-24 00:16:20,116: root: INFO: Bitcoin              | btc    |          672449536751 |       35518.0 |     40857.28 |   True    |        25 |     6544380.0 |      887950.0 |    -5656420.0 |
+2021-05-24 00:16:20,275: root: INFO: Ethereum             | eth    |          251827053258 |        2160.0 |      2898.18 |   True    |        25 |       51825.5 |       54000.0 |       2174.49 |
+2021-05-24 00:16:20,439: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:17:09,729: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:17:09,729: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:17:09,729: root: INFO: 
+2021-05-24 00:17:09,901: root: INFO: Bitcoin              | btc    |          672449536751 |       35518.0 |     40857.28 |   True    |        26 |     6579890.0 |      923468.0 |    -5656420.0 |
+2021-05-24 00:17:10,046: root: INFO: Ethereum             | eth    |          251827053258 |        2160.0 |      2898.18 |   True    |        26 |       53985.5 |       56160.0 |       2174.49 |
+2021-05-24 00:17:10,291: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:17:20,583: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:17:20,583: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:17:20,584: root: INFO: 
+2021-05-24 00:17:20,712: root: INFO: Bitcoin              | btc    |          672449536751 |       35518.0 |     40857.28 |   True    |        27 |     6615410.0 |      958986.0 |    -5656420.0 |
+2021-05-24 00:17:20,865: root: INFO: Ethereum             | eth    |          251827053258 |        2160.0 |      2898.18 |   True    |        27 |       56145.5 |       58320.0 |       2174.49 |
+2021-05-24 00:17:20,997: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:18:10,470: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:18:10,470: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:18:10,470: root: INFO: 
+2021-05-24 00:18:10,686: root: INFO: Bitcoin              | btc    |          672449536751 |       35518.0 |     40857.28 |   True    |        28 |     6650930.0 |      994504.0 |    -5656420.0 |
+2021-05-24 00:18:10,820: root: INFO: Ethereum             | eth    |          251827053258 |        2160.0 |      2898.18 |   True    |        28 |       58305.5 |       60480.0 |       2174.49 |
+2021-05-24 00:18:11,040: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:18:14,957: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:18:14,957: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:18:14,957: root: INFO: 
+2021-05-24 00:18:15,084: root: INFO: Bitcoin              | btc    |          672449536751 |       35518.0 |     40857.28 |   True    |        29 |     6686450.0 |     1030020.0 |    -5656420.0 |
+2021-05-24 00:18:15,215: root: INFO: Ethereum             | eth    |          251827053258 |        2160.0 |      2898.18 |   True    |        29 |       60465.5 |       62640.0 |       2174.49 |
+2021-05-24 00:18:15,335: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:19:15,532: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:19:15,532: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:19:15,532: root: INFO: 
+2021-05-24 00:19:15,725: root: INFO: Bitcoin              | btc    |          672449536751 |       35464.0 |     40857.28 |   True    |        30 |     6721910.0 |     1063920.0 |    -5657990.0 |
+2021-05-24 00:19:15,878: root: INFO: Ethereum             | eth    |          251827053258 |        2160.0 |      2898.18 |   True    |        30 |       62625.5 |       64800.0 |       2174.49 |
+2021-05-24 00:19:16,025: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:19:16,390: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:19:16,390: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:19:16,390: root: INFO: 
+2021-05-24 00:19:16,527: root: INFO: Bitcoin              | btc    |          672449536751 |       35464.0 |     40857.28 |   True    |        31 |     6757380.0 |     1099380.0 |    -5657990.0 |
+2021-05-24 00:19:16,668: root: INFO: Ethereum             | eth    |          251827053258 |        2160.0 |      2898.18 |   True    |        31 |       64785.5 |       66960.0 |       2174.49 |
+2021-05-24 00:19:16,796: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:20:16,191: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:20:16,192: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:20:16,192: root: INFO: 
+2021-05-24 00:20:16,357: root: INFO: Bitcoin              | btc    |          672449536751 |       35464.0 |     40857.28 |   True    |        32 |     6792840.0 |     1134850.0 |    -5657990.0 |
+2021-05-24 00:20:16,531: root: INFO: Ethereum             | eth    |          251827053258 |       2167.22 |      2898.18 |   True    |        32 |       66952.7 |       69351.0 |        2398.3 |
+2021-05-24 00:20:16,699: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:20:18,082: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:20:18,082: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:20:18,083: root: INFO: 
+2021-05-24 00:20:18,227: root: INFO: Bitcoin              | btc    |          672449536751 |       35464.0 |     40857.28 |   True    |        33 |     6828300.0 |     1170310.0 |    -5657990.0 |
+2021-05-24 00:20:18,349: root: INFO: Ethereum             | eth    |          251827053258 |       2167.22 |      2898.18 |   True    |        33 |       69120.0 |       71518.3 |        2398.3 |
+2021-05-24 00:20:18,483: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:21:16,913: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:21:16,914: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:21:16,914: root: INFO: 
+2021-05-24 00:21:17,133: root: INFO: Bitcoin              | btc    |          663661266573 |       35464.0 |     40857.28 |   True    |        34 |     6863770.0 |     1205780.0 |    -5657990.0 |
+2021-05-24 00:21:17,282: root: INFO: Ethereum             | eth    |          251393489079 |       2167.22 |      2898.18 |   True    |        34 |       71287.2 |       73685.5 |        2398.3 |
+2021-05-24 00:21:17,415: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:21:22,190: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:21:22,191: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:21:22,191: root: INFO: 
+2021-05-24 00:21:22,311: root: INFO: Bitcoin              | btc    |          663661266573 |       35464.0 |     40857.28 |   True    |        35 |     6899230.0 |     1241240.0 |    -5657990.0 |
+2021-05-24 00:21:22,434: root: INFO: Ethereum             | eth    |          251393489079 |       2167.22 |      2898.18 |   True    |        35 |       73454.4 |       75852.7 |        2398.3 |
+2021-05-24 00:21:22,529: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:22:17,624: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:22:17,624: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:22:17,624: root: INFO: 
+2021-05-24 00:22:17,822: root: INFO: Bitcoin              | btc    |          663661266573 |       35674.0 |     40857.28 |   True    |        36 |     6934900.0 |     1284260.0 |    -5650640.0 |
+2021-05-24 00:22:17,992: root: INFO: Ethereum             | eth    |          251393489079 |       2167.22 |      2898.18 |   True    |        36 |       75621.6 |       78019.9 |       2398.31 |
+2021-05-24 00:22:18,129: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         5 |       4.97305 |          5.15 |      0.176945 |
+2021-05-24 00:23:24,897: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:23:24,897: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:23:24,898: root: INFO: 
+2021-05-24 00:23:25,114: root: INFO: Bitcoin              | btc    |          663661266573 |       35674.0 |     40857.28 |   True    |         1 |       35674.0 |       35674.0 |           0.0 |
+2021-05-24 00:23:25,282: root: INFO: Ethereum             | eth    |          251393489079 |       2187.77 |      2898.18 |   True    |         1 |       2187.77 |       2187.77 |           0.0 |
+2021-05-24 00:23:25,464: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |
+2021-05-24 00:24:25,689: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:24:25,689: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:24:25,689: root: INFO: 
+2021-05-24 00:24:25,891: root: INFO: Bitcoin              | btc    |          663661266573 |       35674.0 |     40857.28 |   True    |         2 |       71348.0 |       71348.0 |           0.0 |
+2021-05-24 00:24:26,082: root: INFO: Ethereum             | eth    |          251393489079 |       2187.77 |      2898.18 |   True    |         2 |       4375.54 |       4375.54 |           0.0 |
+2021-05-24 00:24:26,225: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |
+2021-05-24 00:25:09,937: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:25:09,938: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:25:09,938: root: INFO: 
+2021-05-24 00:25:10,119: root: INFO: Bitcoin              | btc    |          663661266573 |       35721.0 |     40857.28 |   True    |         3 |      107069.0 |      107163.0 |          94.0 |
+2021-05-24 00:25:10,310: root: INFO: Ethereum             | eth    |          251393489079 |       2193.02 |      2898.18 |   True    |         3 |       6568.56 |       6579.06 |          10.5 |
+2021-05-24 00:25:10,482: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |
+2021-05-24 00:25:26,411: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:25:26,411: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:25:26,411: root: INFO: 
+2021-05-24 00:25:26,566: root: INFO: Bitcoin              | btc    |          663661266573 |       35721.0 |     40857.28 |   True    |         4 |      142790.0 |      142884.0 |          94.0 |
+2021-05-24 00:25:26,694: root: INFO: Ethereum             | eth    |          251393489079 |       2193.02 |      2898.18 |   True    |         4 |       8761.58 |       8772.08 |          10.5 |
+2021-05-24 00:25:26,810: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |
+2021-05-24 00:26:10,856: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:26:10,856: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:26:10,857: root: INFO: 
+2021-05-24 00:26:11,241: root: INFO: Bitcoin              | btc    |          663661266573 |       35722.0 |     40857.28 |   True    |         5 |      178512.0 |      178610.0 |          98.0 |
+2021-05-24 00:26:11,431: root: INFO: Ethereum             | eth    |          251393489079 |       2193.02 |      2898.18 |   True    |         5 |       10954.6 |       10965.1 |          10.5 |
+2021-05-24 00:26:11,612: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |
+2021-05-24 00:26:50,150: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:26:50,150: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:26:50,150: root: INFO: 
+2021-05-24 00:26:50,312: root: INFO: Bitcoin              | btc    |          663661266573 |       35722.0 |     40857.28 |   True    |         6 |      214234.0 |      214332.0 |          98.0 |
+2021-05-24 00:26:50,518: root: INFO: Ethereum             | eth    |          251393489079 |       2192.42 |      2898.18 |   True    |         6 |       13147.0 |       13154.5 |           7.5 |
+2021-05-24 00:26:50,684: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |
+2021-05-24 00:27:11,728: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:27:11,729: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:27:11,729: root: INFO: 
+2021-05-24 00:27:11,889: root: INFO: Bitcoin              | btc    |          663661266573 |       35722.0 |     40857.28 |   True    |         7 |      249956.0 |      250054.0 |          98.0 |
+2021-05-24 00:27:12,038: root: INFO: Ethereum             | eth    |          251393489079 |       2192.42 |      2898.18 |   True    |         7 |       15339.4 |       15346.9 |           7.5 |
+2021-05-24 00:27:12,150: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |
+2021-05-24 00:27:50,916: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:27:50,916: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:27:50,916: root: INFO: 
+2021-05-24 00:27:51,055: root: INFO: Bitcoin              | btc    |          663661266573 |       35693.0 |     40857.28 |   True    |         8 |      285649.0 |      285544.0 |        -105.0 |
+2021-05-24 00:27:51,209: root: INFO: Ethereum             | eth    |          251393489079 |       2192.42 |      2898.18 |   True    |         8 |       17531.9 |       17539.4 |           7.5 |
+2021-05-24 00:27:51,366: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |
+2021-05-24 00:29:21,345: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:29:21,346: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:29:21,346: root: INFO: 
+2021-05-24 00:29:21,515: root: INFO: Bitcoin              | btc    |          663661266573 |       35693.0 |     40857.28 |   True    |         9 |      321342.0 |      321237.0 |        -105.0 |
+2021-05-24 00:29:21,695: root: INFO: Ethereum             | eth    |          251393489079 |       2192.42 |      2898.18 |   True    |         9 |       19724.3 |       19731.8 |           7.5 |
+2021-05-24 00:29:21,834: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |
+2021-05-24 00:30:53,721: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:30:53,721: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:30:53,722: root: INFO: 
+2021-05-24 00:30:53,900: root: INFO: Bitcoin              | btc    |          666518222071 |       35617.0 |     40857.28 |   True    |        10 |      356959.0 |      356170.0 |        -789.0 |
+2021-05-24 00:30:54,032: root: INFO: Ethereum             | eth    |          254420640986 |       2193.32 |      2898.18 |   True    |        10 |       21917.6 |       21933.2 |       15.6016 |
+2021-05-24 00:30:54,261: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |
+2021-05-24 00:31:54,538: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:31:54,539: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:31:54,539: root: INFO: 
+2021-05-24 00:31:54,717: root: INFO: Bitcoin              | btc    |          666518222071 |       35617.0 |     40857.28 |   True    |        11 |      392576.0 |      391787.0 |        -789.0 |
+2021-05-24 00:31:54,905: root: INFO: Ethereum             | eth    |          254420640986 |       2193.32 |      2898.18 |   True    |        11 |       24110.9 |       24126.5 |       15.6016 |
+2021-05-24 00:31:55,064: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |
+2021-05-24 00:32:55,272: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:32:55,273: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:32:55,273: root: INFO: 
+2021-05-24 00:32:55,434: root: INFO: Bitcoin              | btc    |          666518222071 |       35570.0 |     40857.28 |   True    |        12 |       42007.0 |      426840.0 |      384833.0 |
+2021-05-24 00:32:55,582: root: INFO: Ethereum             | eth    |          254420640986 |       2188.85 |      2898.18 |   True    |        12 |       26299.8 |       26266.2 |      -33.5684 |
+2021-05-24 00:32:55,726: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |
+2021-05-24 00:33:46,666: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:33:46,666: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:33:46,667: root: INFO: 
+2021-05-24 00:33:46,909: root: INFO: Bitcoin              | btc    |          666518222071 |       35570.0 |     40857.28 |   True    |        13 |       77577.0 |      462410.0 |      384833.0 |
+2021-05-24 00:33:47,088: root: INFO: Ethereum             | eth    |          254420640986 |       2188.85 |      2898.18 |   True    |        13 |       28488.6 |       28455.1 |      -33.5684 |
+2021-05-24 00:33:47,244: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |
+2021-05-24 00:33:57,369: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:33:57,369: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:33:57,369: root: INFO: 
+2021-05-24 00:33:57,513: root: INFO: Bitcoin              | btc    |          666518222071 |       35570.0 |     40857.28 |   True    |        14 |      113147.0 |      497980.0 |      384833.0 |
+2021-05-24 00:33:57,650: root: INFO: Ethereum             | eth    |          254420640986 |       2188.85 |      2898.18 |   True    |        14 |       30677.5 |       30643.9 |      -33.5664 |
+2021-05-24 00:33:57,745: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |
+2021-05-24 00:34:07,885: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:34:07,886: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:34:07,886: root: INFO: 
+2021-05-24 00:34:08,042: root: INFO: Bitcoin              | btc    |          666518222071 |       35570.0 |     40857.28 |   True    |        15 |      148717.0 |      533550.0 |      384833.0 |
+2021-05-24 00:34:08,215: root: INFO: Ethereum             | eth    |          254420640986 |       2188.85 |      2898.18 |   True    |        15 |       32866.3 |       32832.8 |      -33.5703 |
+2021-05-24 00:34:08,342: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |
+2021-05-24 00:34:18,521: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:34:18,521: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:34:18,521: root: INFO: 
+2021-05-24 00:34:18,670: root: INFO: Bitcoin              | btc    |          666518222071 |       35570.0 |     40857.28 |   True    |        16 |  6437440000.0 |      569120.0 | -6436870000.0 |
+2021-05-24 00:34:18,874: root: INFO: Ethereum             | eth    |          254420640986 |       2188.85 |      2898.18 |   True    |        16 |       35055.2 |       35021.6 |      -33.5703 |
+2021-05-24 00:34:19,039: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |
+2021-05-24 00:34:29,206: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:34:29,206: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:34:29,207: root: INFO: 
+2021-05-24 00:34:29,352: root: INFO: Bitcoin              | btc    |          666518222071 |       35570.0 |     40857.28 |   True    |        17 |  6437480000.0 |      604690.0 | -6436870000.0 |
+2021-05-24 00:34:29,521: root: INFO: Ethereum             | eth    |          254420640986 |       2188.85 |      2898.18 |   True    |        17 |       37244.0 |       37210.5 |      -33.5703 |
+2021-05-24 00:34:29,655: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |
+2021-05-24 00:34:39,779: root: INFO: 
+Crypto-Currency Name | Symbol | Market Capitalization | Current Price  | 10 days Avg | Submitted | Ownership |     Spent     |     Value     |    Gain/Loss  |
+2021-05-24 00:34:39,779: root: INFO: --------------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-05-24 00:34:39,780: root: INFO: 
+2021-05-24 00:34:39,913: root: INFO: Bitcoin              | btc    |          666518222071 |       35570.0 |     40857.28 |   True    |        18 |  6437510000.0 |      640260.0 | -6436870000.0 |
+2021-05-24 00:34:40,037: root: INFO: Ethereum             | eth    |          254420640986 |       2188.85 |      2898.18 |   True    |        18 |       39432.9 |       39399.3 |      -33.5742 |
+2021-05-24 00:34:40,174: root: INFO: Tether               | usdt   |           61469840969 |          1.03 |          1.0 |   False   |         0 |           0.0 |           0.0 |           0.0 |

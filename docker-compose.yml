@@ -28,4 +28,4 @@ services:
     restart: unless-stopped
     tty: true
     volumes:
-      - ./dump:/docker-entrypoint-initdb.d
+      - ./db:/docker-entrypoint-initdb.d

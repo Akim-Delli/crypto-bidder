@@ -6,8 +6,10 @@ CREATE TABLE cryptocurrencies (
   current_price FLOAT,
   market_cap BIGINT,
   ownership INTEGER DEFAULT 0,
-  porfolio_value FLOAT AS (ownership * current_price),
-  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ,
+  spent FLOAT DEFAULT 0.0,
+  portfolio_value FLOAT AS (ownership * current_price),
+  gain_loss FLOAT AS (portfolio_value - spent),
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   updated_at DATETIME DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 
 ,

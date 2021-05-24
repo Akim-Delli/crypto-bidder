@@ -1,12 +1,12 @@
 init:
-	sudo docker-compose up --build -d
+	docker-compose up --build -d
 	make exec
 up:
-	sudo docker-compose up -d
+	docker-compose up -d
 	make exec
 down:
-	sudo docker-compose down
+	docker-compose down
 exec:
-	sudo docker exec -it interview-assessment bash
+	docker exec -it interview-assessment python ./app.py
 logs:
-	sudo docker-compose logs -f
+	docker-compose logs -f
