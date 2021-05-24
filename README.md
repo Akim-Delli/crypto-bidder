@@ -11,11 +11,13 @@ Cryptocurrencies are on the rise, and we want to get in on the action. Let's bui
 
 make sure to copy the .env.example file to .env
 
+`make init` once
+
 `make up`
 
 or
 
-`make exec`
+`make exec` once the container si still running
 
 should start the bot after a short delay (to make sure that the db container is fully ready)
 
