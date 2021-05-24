@@ -7,7 +7,7 @@ from models.coins import Coin
 format_for_stdout = logging.Formatter('%(message)s')
 format_for_logfile = logging.Formatter('%(asctime)s: %(name)s: %(levelname)s: %(message)s')
 
-handler_logfile = logging.FileHandler('storage/app.log')
+handler_logfile = logging.FileHandler('storage/logs/app.log')
 handler_logfile.setLevel(logging.INFO)
 handler_logfile.setFormatter(format_for_logfile)
 
