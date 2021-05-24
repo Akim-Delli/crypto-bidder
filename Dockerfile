@@ -32,4 +32,4 @@ RUN poetry install --no-interaction
 
 COPY . ${WORKDIR}
 
-CMD [/bin/bash, python,  ./app.py]
+CMD ["python",  "app.py"]

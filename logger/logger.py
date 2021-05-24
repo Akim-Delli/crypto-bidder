@@ -15,12 +15,6 @@ handler_stdout = logging.StreamHandler()
 handler_stdout.setLevel(logging.INFO)
 handler_stdout.setFormatter(format_for_stdout)
 
-bold_red = "\x1b[31;1m"
-reset = "\x1b[0m"
-logger_format_red = f"%(asctime)s [%(levelname)s] {bold_red} %(message)s {reset}"
-# logger_format_green = f"%(asctime)s [%(levelname)s] {bold_green} %(message)s {reset}"
-
-
 logging.basicConfig(
     level=logging.INFO,
     handlers=[

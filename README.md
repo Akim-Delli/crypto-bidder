@@ -9,6 +9,8 @@ Cryptocurrencies are on the rise, and we want to get in on the action. Let's bui
 
 ## Instructions
 
+make sure to copy the .env.example file to .env
+
 `make up`
 
 or

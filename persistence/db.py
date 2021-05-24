@@ -32,7 +32,6 @@ def update(coin: Coin, volume):
     connection = connect()
     with connection:
         with connection.cursor() as cursor:
-            # sql = "SET @ownership = (SELECT ownership FROM cryptocurrencies);"
 
             sql = "UPDATE `cryptocurrencies` SET `current_price` = %s, `market_cap` = %s, `ownership` = (SELECT ownership) + %s, `spent` = (SELECT spent) + %s * %s  WHERE `symbol` = %s"
             cursor.execute(sql, (coin.current_price, coin.market_cap, volume, volume, coin.current_price, coin.symbol))
@@ -44,7 +43,7 @@ def retrieve(coin: Coin) -> Dict:
         connection = connect()
 
         with connection.cursor() as cursor:
-            # Read a single record
+
             sql = "SELECT `id`, `name`, `symbol`, `current_price`, `market_cap`, `ownership`, `spent`, `portfolio_value`, `gain_loss` FROM `cryptocurrencies` WHERE `symbol`=%s"
             cursor.execute(sql, (coin.symbol,))
             result = cursor.fetchone()
@@ -56,7 +55,7 @@ def portfolio_value() -> Dict:
     connection = connect()
 
     with connection.cursor() as cursor:
-        # Read a single record
+
         sql = "SELECT SUM(`portfolio_value`) AS total_portfolio_value, SUM(`spent`) AS cost FROM `cryptocurrencies`"
         cursor.execute(sql, None)
         result = cursor.fetchone()
